@@ -20,6 +20,7 @@ x | x | x | x
 
 
 **Part List (these should be 3D-printed)**
+(Note these parts can be ordered online)
 
 Part | Quanity | Print File | Extra
 ------------ | ------------- | ------------- | -------------
