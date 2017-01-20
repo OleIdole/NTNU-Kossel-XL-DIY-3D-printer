@@ -17,5 +17,5 @@ Ramme | 4 | www.test.com | Remember this
 
 Part | Second Header | Second Header
 ------------ | ------------- | -------------
-Ramme | Content from cell 2 | Content from cell 2
+Ramme | 4 | Content from cell 2
 Content in the first column | Content in the second column | Content in the second column
