@@ -8,7 +8,7 @@
 
 Part | Quanity | Order Link | Extra
 ------------ | ------------- | ------------- | -------------
-Ramme | 4 | www.test.com | Remember this
+MGN12-1H-L600 Linear Rail and Carriage for Kossel XL | 1 | http://www.robotdigg.com/product/493 | Remember this
 x | x | x | x
 x | x | x | x
 x | x | x | x
@@ -27,7 +27,6 @@ Part | Quanity | Print File | Extra
 Ramme | 4 | www.test.com | Remember this
 x | x | x | x
 x | x | x | x
- | x | x | x
 
 
 ## Assembly
