@@ -14,7 +14,6 @@ MGN12-1H-L600 Linear Rail and Carriage for Kossel XL | 1 | http://www.robotdigg.
 Tie Rod Carbon Tube for Delta Robot or Drone | 1 | http://www.robotdigg.com/product/453/Tie-Rod-Carbon-Tube-3*6mm-L300 | Carbon stenger
 Tie Rod Ends for Kossel | 1 | http://www.robotdigg.com/product/449/Tie-Rod-Ends-for-Kossel | Carbon stenger
 Dia 300mm, 500W@220V, w/ 3M PSA & NTC 100K Thermistor,Round Silicone Heater Pad,3D Printer Heater,Heatbed | 1 | https://www.aliexpress.com/item/Dia-300mm-500W-220V-w-3M-PSA-NTC-100K-Thermistor-Round-Silicone-Heater-Pad-3D-Printer/32639585924.html?spm=2114.10010108.100009.3.WC4JWY&scm=1007.13482.37805.0&pvid=17de63e2-7892-47e8-a419-21b708d3f7a3&tpp=1 | HeatBed
-
 SSR-40DA-H 40A Solid State Relay Module 3-32V DC / 90-480V AC + Heat Sink | 1 | http://www.ebay.com/itm/SSR-40DA-H-40A-Solid-State-Relay-Module-3-32V-DC-90-480V-AC-Heat-Sink-/321057004160?hash=item4ac07d1a80:g:MCEAAOSw4shX4lC7 | HeatBed
 300mm Borosilicate Glass for 3D Printing | 1 | http://www.robotdigg.com/product/490/300mm-Borosilicate-Glass-for-3D-Printing | HeatBed(ROUND NOT SQUARE!!!)
 42BYGH Nema17 Stepper Motor | 3 | http://www.robotdigg.com/product/241/0.9-step-angle-nema17-48mm-stepper | Stepper motor
