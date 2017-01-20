@@ -17,3 +17,12 @@ Extra:
 
 
 ## Assembly
+---
+id: two-way-binding-helpers
+title: Two-way Binding Helpers
+permalink: docs/two-way-binding-helpers.html
+layout: docs
+category: Add-Ons
+prev: pure-render-mixin.html
+next: update.html
+---
