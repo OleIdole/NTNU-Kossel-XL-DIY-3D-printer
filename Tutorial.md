@@ -6,8 +6,9 @@
 
 **Part List**
 Part | Quanity | Order Link | Extra
----- | ------- | ---------- | -----
+------------ | ------------- | ------------- | -------------
 Ramme | 4 | www.test.com | Remember this
+Content in the first column | Content in the second column | Content in the second column | Content in the second column
 
 **Part List (these should be 3D-printed)**
 
@@ -15,7 +16,4 @@ Ramme | 4 | www.test.com | Remember this
 
 ## Assembly
 
-Part | Quanity | Order Link | Extra
------------- | ------------- | ------------- | -------------
-Ramme | 4 | www.test.com | Remember this
-Content in the first column | Content in the second column | Content in the second column | Content in the second column
+
