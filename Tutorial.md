@@ -9,7 +9,7 @@
 Part | Quanity | Order Link | Extra
 ------------ | ------------- | ------------- | -------------
 Ramme | 4 | www.test.com | Remember this
-Content in the first column | Content in the second column | Content in the second column | Content in the second column
+x | x | x | x
 
 **Part List (these should be 3D-printed)**
 
