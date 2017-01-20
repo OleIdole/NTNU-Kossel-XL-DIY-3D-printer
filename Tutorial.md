@@ -26,7 +26,8 @@ Part | Quantity | Note
 
 <br>
 <br>
-**Part List (these should be 3D-printed)**<br>
+**Part List (these should be 3D-printed)**
+<br>
 (Note these parts can be ordered online)
 
 Part | Quanity | Print File | Extra
