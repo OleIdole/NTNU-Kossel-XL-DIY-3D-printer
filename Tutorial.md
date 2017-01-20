@@ -15,7 +15,7 @@ Ramme | 4 | www.test.com | Remember this
 
 ## Assembly
 
-Part | Second Header | Second Header
+Part | Quanity | Order Link
 ------------ | ------------- | -------------
-Ramme | 4 | Content from cell 2
+Ramme | 4 | www.test.com
 Content in the first column | Content in the second column | Content in the second column
