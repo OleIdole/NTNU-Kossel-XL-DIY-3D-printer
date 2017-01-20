@@ -15,7 +15,7 @@ Ramme | 4 | www.test.com | Remember this
 
 ## Assembly
 
-Part | Quanity | Order Link
------------- | ------------- | -------------
-Ramme | 4 | www.test.com
-Content in the first column | Content in the second column | Content in the second column
+Part | Quanity | Order Link | Extra
+------------ | ------------- | ------------- | -------------
+Ramme | 4 | www.test.com | Remember this
+Content in the first column | Content in the second column | Content in the second column | Content in the second column
