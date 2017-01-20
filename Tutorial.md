@@ -1,9 +1,10 @@
 ## Introduction
 
-
+<br>
+<br>
 ##Specifications
 
-
+<br>
 **Part List**
 
 Part | Quantity | Note
@@ -22,6 +23,7 @@ Part | Quantity | Note
 [v6 HotEnd Full Kit - 1.75mm Universal (with Bowden add-on) (12v)](http://e3d-online.com/E3D-v6/Full-Kit/v6-1.75mm-Universal-Bowden) | 1 | Hot end
 [2 x Bright White 80mm Angel Eyes 24 SMD LED Ring Car Light DC 12V](http://www.ebay.com/itm/2-x-Bright-White-80mm-Angel-Eyes-24-SMD-LED-Ring-Car-Light-DC-12V-/400891720851?hash=item5d57023493:g:zRoAAOSwBLlVElmw&vxp=mtr) | 1 | Extra
 [30x30x10mm 12v DC Fan](http://e3d-online.com/Electrical/Fans/30x30x10mm-12v-DC-Fan) | 3 | Extra
+
 <br>
 <br>
 **Part List (these should be 3D-printed)**
@@ -33,7 +35,8 @@ Ramme | 4 | www.test.com | Remember this
 x | x | x | x
 x | x | x | x
 
-
+<br>
+<br>
 ## Assembly
 
 
