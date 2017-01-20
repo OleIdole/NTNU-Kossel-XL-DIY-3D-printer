@@ -30,9 +30,9 @@ Part | Quantity | Note
 <br>
 Note that these parts can be ordered online
 
-Part | Quanity | Print File | Extra
+Part | Quanity | Print File | Note
 ------------ | ------------- | ------------- | -------------
-Ramme | 4 | www.test.com | Remember this
+Ramme | 4 | filename.STL | Remember this
 x | x | x | x
 x | x | x | x
 
