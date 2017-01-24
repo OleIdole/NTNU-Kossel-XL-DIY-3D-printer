@@ -15,14 +15,14 @@ Jumpers need to be installed under each stepper driver:
 
 jumper1 | jumper2 | jumper 3 | step size
 ------------ | ------------- | ------------- | -------------
- no |  no |   no |  full step
- yes|  no |   no |   half step
- no |  yes|   no |   1/4 step
- yes|  yes|   no |   1/8 step
- no |  no |   yes|   1/16 step
- yes|  no |   yes|   1/32 step
- no |  yes|   yes|   1/64 step
- yes|  yes|   yes|   1/128 step
+ no  |  no |   no |  full step
+ yes |  no |   no |   half step
+ no  |  yes |   no |   1/4 step
+ yes |  yes |   no |   1/8 step
+ no  |  no |   yes |   1/16 step
+ yes |  no |   yes |   1/32 step
+ no  |  yes |   yes |   1/64 step
+ yes |  yes |   yes |   1/128 step
  
  If the jumpers set it to a higher number of micro steps than supported by the 
  driver it will operate at the maximum number of micro steps for that driver. 
