@@ -28,8 +28,3 @@ jumper1 | jumper2 | jumper 3 | step size
  driver it will operate at the maximum number of micro steps for that driver. 
  Sinse we use the pololu A4988 stepper motor drivere, that results in 1/16 micro stepping
 
-Part | Quanity | Print File | Note
------------- | ------------- | ------------- | -------------
-Ramme | 4 | filename.STL | Remember this
-x | x | x | x
-x | x | x | x
