@@ -1,11 +1,11 @@
 ## Links to parts for 3D printing 
 
-Frame:      http://www.thingiverse.com/thing:2050125
-Effector:   http://www.thingiverse.com/thing:1569106
-Extruder:   http://www.thingiverse.com/thing:662885
-      or    http://www.thingiverse.com/thing:1327931
-Carriage:   http://www.thingiverse.com/thing:1253123
-            http://www.thingiverse.com/thing:858871   (Used the endstops) 
+Frame:      http://www.thingiverse.com/thing:2050125 <br>
+Effector:   http://www.thingiverse.com/thing:1569106 <br>
+Extruder:   http://www.thingiverse.com/thing:662885 <br>
+      or    http://www.thingiverse.com/thing:1327931 <br>
+Carriage:   http://www.thingiverse.com/thing:1253123 <br>
+            http://www.thingiverse.com/thing:858871   (Used the endstops) <br>
 Heatbedholder: 2 4mx25mm screw, 5mmx20mm spring .
 
 
