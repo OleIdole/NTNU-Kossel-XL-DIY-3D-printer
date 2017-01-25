@@ -32,7 +32,7 @@ Note that these parts can be ordered online
 
 Part | Quanity | Print File | Note
 ------------ | ------------- | ------------- | -------------
-Ramme | 4 | filename.STL | Remember this
+Bottom Fame | 4 | modded_frame_motor_2020sw.stl | ..
 x | x | x | x
 x | x | x | x
 
