@@ -32,9 +32,9 @@ Note that these parts can be ordered online
 
 Part | Quanity | Print File | Note
 ------------ | ------------- | ------------- | -------------
-Bottom Fame | 4 | modded_frame_motor_2020sw.stl | ..
-x | x | x | x
-x | x | x | x
+Bottom Fame | 3 | modded_frame_motor_2020sw.stl | ..
+Top Frame | 3 | modded_frame_top_2020sw.stl  | ..
+Effector | 1<br>1| NewEffector.STL <br> FlowSupport.STL | x
 
 <br>
 <br>
