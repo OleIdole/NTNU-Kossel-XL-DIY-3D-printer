@@ -32,9 +32,13 @@ Note that these parts can be ordered online
 
 Part | Quanity | Print File | Note
 ------------ | ------------- | ------------- | -------------
-Bottom Fame | 3 | modded_frame_motor_2020sw.stl | ..
-Top Frame | 3 | modded_frame_top_2020sw.stl  | ..
-Effector | 1<br>1| NewEffector.STL <br> FlowSupport.STL | x
+[Bottom Fame](http://www.thingiverse.com/thing:2050125 ) | 3 | modded_frame_motor_2020sw.stl | ..
+[Top Frame](http://www.thingiverse.com/thing:2050125) | 3 |  modded_frame_top_2020sw.stl  | ..
+[Effector]( http://www.thingiverse.com/thing:1569106) | 1<br>1<br>3| NewEffector.STL <br> FlowSupport.STL <br> NeckMount.STL | ..
+[Extruder]() | 1 | xxx.STL | ..
+[Carriage](http://www.thingiverse.com/thing:1253123) | 3<br>3 | Belt_tension-V3.STL<br>Cariage-V3.stl | .. 
+[End Stopp](tegne om) | 6 | xxx.STL | .. 
+[Filament holder](http://www.thingiverse.com/thing:1511487) | 1<br>1<br>1 | fl_sun_kossel_delta_filament_holder_70mm <br> 
 
 <br>
 <br>
