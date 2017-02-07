@@ -32,21 +32,21 @@ jumper1 | jumper2 | jumper 3 | step size
 
 Guide for mounting the E3D V6 
 
-F: Front 
-L: Left from front
-R: Right from front 
-Number of nuts i the 20x20 profiles. 
-F-lower outside: 2
-F-upper outside: 2
-F-lower inside : 1
-F-upper inside : 1
-L-lower outside: 2
-L-upper outside: 2
-L-lower inside : 4
-L-upper inside : 0
-R-lower outside: 1
-R-upper outside: 2 
-R-lower inside : 2
-R-upper inside : 2 
-Inside of towers : 5 
-Right outside tower : 1 
+F: Front <br>
+L: Left from front<br>
+R: Right from front <br>
+Number of nuts i the 20x20 profiles. <br>
+F-lower outside: 2<br>
+F-upper outside: 2<br>
+F-lower inside : 1<br>
+F-upper inside : 1<br>
+L-lower outside: 2<br>
+L-upper outside: 2<br>
+L-lower inside : 4<br>
+L-upper inside : 0<br>
+R-lower outside: 1<br>
+R-upper outside: 2 <br>
+R-lower inside : 2<br>
+R-upper inside : 2 <br>
+Inside of towers : 5 <br>
+Right outside tower : 1 <br>
