@@ -28,3 +28,25 @@ jumper1 | jumper2 | jumper 3 | step size
  driver it will operate at the maximum number of micro steps for that driver. 
  Sinse we use the pololu A4988 stepper motor drivere, that results in 1/16 micro stepping
 
+
+
+Guide for mounting the E3D V6 
+
+F: Front 
+L: Left from front
+R: Right from front 
+Number of nuts i the 20x20 profiles. 
+F-lower outside: 2
+F-upper outside: 2
+F-lower inside : 1
+F-upper inside : 1
+L-lower outside: 2
+L-upper outside: 2
+L-lower inside : 4
+L-upper inside : 0
+R-lower outside: 1
+R-upper outside: 2 
+R-lower inside : 2
+R-upper inside : 2 
+Inside of towers : 5 
+Right outside tower : 1 
