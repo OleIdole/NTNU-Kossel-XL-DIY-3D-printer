@@ -51,7 +51,7 @@ R-upper inside : 2 <br>
 Inside of all towers :lowest 1 x m4, in the midle 7 x m3 and on topp 1 x m4 <br>
 Depends on the carry profile that is used. We used one with 24xm3 holes. <br>
 And we used m4 for the end brackets. (lower and upper) 
-Right outside tower : 7 <br>
+Right outside tower : 6 <br>
 left outside tower : 6 <br>
 front outside tower : 6 <br>
 
