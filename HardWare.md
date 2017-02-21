@@ -55,7 +55,6 @@ Right outside tower : 6 <br>
 left outside tower : 6 <br>
 front outside tower : 6 <br>
 
-Mount 6 on each lower cornerpart and 3 on the upper corners. 
-
+Mount 6 on each lower cornerpart and 3 on the upper corners. <br>
 
 
