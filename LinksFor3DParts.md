@@ -58,4 +58,4 @@ front outside tower : 6 <br>
 Mount 6 on each lower cornerpart and 3 on the upper corners. 
 
 
-Mount Power supply last
+
