@@ -8,3 +8,11 @@ https://github.com/MarlinFirmware/Marlin/tree/RC/Marlin/example_configurations
 
 PID autotune: <br> 
 https://www.3dhubs.com/talk/thread/pid-autotune
+
+Downloade Pronterface form: <br>
+http://kliment.kapsi.fi/printrun/
+
+
+StartUp<br> 
+
+Check endstopps. Type M119 in proterface
