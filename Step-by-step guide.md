@@ -15,10 +15,27 @@ Make sure that the tie rod ends on both sides are equally rotated.<br>
 Assemble the carriage similar to the picture. These will later be used to keep the belt tightened and also move the delta arms.<br>
 
 
-### Step 3
+### Step 3 - Ramps 1.4 jumper settings
+There are 3 jumper settings under the stepper
+Jumpers need to be installed under each stepper driver:
+
+jumper1 | jumper2 | jumper 3 | step size
+------------ | ------------- | ------------- | -------------
+ no  |  no |   no |  full step
+ yes |  no |   no |   half step
+ no  |  yes |   no |   1/4 step
+ yes |  yes |   no |   1/8 step
+ no  |  no |   yes |   1/16 step
+ yes |  no |   yes |   1/32 step
+ no  |  yes |   yes |   1/64 step
+ yes |  yes |   yes |   1/128 step
+ 
+ If the jumpers are set to a higher number of micro steps than supported by the 
+ driver it will operate at the maximum number of micro steps for that driver. 
+ Since we use the pololu A4988 stepper motor drivers, that results in 1/16 micro stepping.
 
 
-### Step 4
+### Step 4 - Power supply voltage
 
 
 ### Step 5
@@ -33,7 +50,31 @@ Assemble the carriage similar to the picture. These will later be used to keep t
 
 ### Step 1 - Insert T-nuts
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/T-nut.jpg" align="center" height="403" width="302"></a> <br>
+Insert T-nuts according to the list below:
+F: Front <br>
+L: Left from front<br>
+R: Right from front <br>
+Number of nuts i the 20x20 profiles. <br>
+F-lower outside: 2<br>
+F-upper outside: 2<br>
+F-lower inside : 1<br>
+F-upper inside : 1<br>
+L-lower outside: 2<br>
+L-upper outside: 2<br>
+L-lower inside : 4<br>
+L-upper inside : 0<br>
+R-lower outside: 1<br>
+R-upper outside: 2 <br>
+R-lower inside : 2<br>
+R-upper inside : 2 <br>
+Inside of all towers :lowest 1 x m4, in the midle 7 x m3 and on topp 1 x m4 <br>
+Depends on the carry profile that is used. We used one with 24xm3 holes. <br>
+And we used m4 for the end brackets. (lower and upper) 
+Right outside tower : 6 <br>
+left outside tower : 6 <br>
+front outside tower : 6 <br>
 
+Mount 6 on each lower cornerpart and 3 on the upper corners. <br>
 
 ### Step 2 - Assemble bottom corners
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
@@ -48,7 +89,7 @@ Assemble the carriage similar to the picture. These will later be used to keep t
 
 
 ### Step 6 - Attach linear rails and end stops
-
+**Make sure the carriage does not slide off the linear rail, there are loose parts inside!**<br>
 
 ### Step 7
 
