@@ -5,6 +5,7 @@
 
 ### Step 1 - Carbon Rods
 Legg inn bilde av sammenlimte stenger
+![alt tag](https://raw.githubusercontent.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/T-nut.jpg)
 
 ### Step 2 - Carriage
 Legg inn bilde av ferdigmontert carriage
