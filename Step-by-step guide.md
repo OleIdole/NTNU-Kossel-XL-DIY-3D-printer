@@ -3,11 +3,16 @@ eller for å kunne skalere: <a href="url"><img src="link" align="center" height=
 
 ## Preparation of parts
 
-### Step 1 - Carbon Rods
+### Step 1 - Tie rod carbon tubes
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carbon%20rod.jpg" align="center" height="403" width="302" ></a>
+Put glue on the tie rod end and insert it into the tie rod carbon tube. Loctite Power Epoxy Universal works well for this, but other types can also work. Make sure that the tie rod ends does not slide out while the glue dries.
+Make sure that the tie rod ends on both sides are equally rotated.
 
 ### Step 2 - Carriage
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carriage.jpg" align="center" height="403" width="302" ></a>
+## Make sure the carriage does not slide off the linear rail, there are loose parts inside!
+Assemble the carriage similar to the picture. These will later be used to keep the belt tightened and also move the delta arms.
+
 
 ### Step 3
 
