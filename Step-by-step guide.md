@@ -34,7 +34,7 @@ Legg inn bilde av ferdigmontert carriage
 ![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg)
 
 ### Step 3 - Attach stepper motors
-![alt tag](x)
+![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Stepper%20motor.jpg)
 
 ### Step 4 - Assemble top corners
 ![alt tag](x)
