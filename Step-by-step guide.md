@@ -11,7 +11,7 @@ Make sure that the tie rod ends on both sides are equally rotated.<br>
 
 ### Step 2 - Carriage
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carriage.jpg" align="center" height="403" width="302" ></a> <br>
-#### Make sure the carriage does not slide off the linear rail, there are loose parts inside!<br>
+**Make sure the carriage does not slide off the linear rail, there are loose parts inside!**<br>
 Assemble the carriage similar to the picture. These will later be used to keep the belt tightened and also move the delta arms.<br>
 
 
@@ -33,6 +33,7 @@ Assemble the carriage similar to the picture. These will later be used to keep t
 
 ### Step 1 - Insert T-nuts
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/T-nut.jpg" align="center" height="403" width="302"></a> <br>
+
 
 ### Step 2 - Assemble bottom corners
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
