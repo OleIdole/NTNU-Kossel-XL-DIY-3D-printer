@@ -1,5 +1,5 @@
-legg inn bilde ved link: ![alt tag](x)
-eller for å kunne skalere: <a href="url"><img src="link" align="center" height="400" width="400" ></a>
+legg inn bilde ved link: ![alt tag](x) <br>
+eller for å kunne skalere: <a href="url"><img src="link" align="center" height="400" width="400" ></a> <br>
 ny linje: <br>
 
 ## Preparation of parts
