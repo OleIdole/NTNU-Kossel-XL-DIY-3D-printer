@@ -62,20 +62,20 @@ Insert T-nuts into the 20x20 profiles according to the list below:<br>
 **Front:**<br>
 Lower outside: 2<br>
 Upper outside: 2<br>
-Lower inside : 1<br>
-Upper inside : 1<br>
+Lower inside : 3<br>
+Upper inside : 3<br>
 <br>
 **Left side:**<br>
 Lower outside: 2<br>
 Upper outside: 2<br>
-Lower inside : 4<br>
-Upper inside : 0<br>
+Lower inside : 6<br>
+Upper inside : 2<br>
 <br>
 **Right side:**<br>
 Lower outside: 1<br>
-Upper outside: 2 <br>
-Lower inside : 2<br>
-Upper inside : 2 <br>
+Upper outside: 2<br>
+Lower inside : 4<br>
+Upper inside : 4<br>
 <br>
 
 #### Dette skal lenger ned i guiden, beholder her midlertidig.
