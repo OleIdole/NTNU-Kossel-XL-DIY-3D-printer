@@ -1,14 +1,15 @@
-
+legg inn bilde ved link: ![alt tag](x)
 
 
 ## Preparation of parts
 
 ### Step 1 - Carbon Rods
 Legg inn bilde av sammenlimte stenger
-![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/T-nut.jpg)
+![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carbon%20rod.jpg)
 
 ### Step 2 - Carriage
 Legg inn bilde av ferdigmontert carriage
+![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carriage.jpg)
 
 ### Step 3
 
@@ -27,16 +28,16 @@ Legg inn bilde av ferdigmontert carriage
 ## Assembly
 
 ### Step 1 - Insert T-nuts
-
+![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/T-nut.jpg)
 
 ### Step 2 - Assemble bottom corners
-
+![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg)
 
 ### Step 3 - Attach stepper motors
-
+![alt tag](x)
 
 ### Step 4 - Assemble top corners
-
+![alt tag](x)
 
 ### Step 5 - Connect bottom and top together
 
