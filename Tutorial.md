@@ -5,7 +5,7 @@
 
 ## Specifications
 <br>
-** Part List **
+**Part List**
 
 Part | Quantity | Note
 ------------ | ------------- | -------------
