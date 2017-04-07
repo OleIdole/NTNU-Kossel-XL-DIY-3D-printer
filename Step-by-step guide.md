@@ -26,7 +26,7 @@ eller for å kunne skalere: <a href="url"><img src="link" align="center" height=
 ## Assembly
 
 ### Step 1 - Insert T-nuts
-<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/T-nut.jpg" align="center" height="403" width="302" ></a>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/T-nut.jpg" align="center" height="403" width="302" orientate()></a>
 
 ### Step 2 - Assemble bottom corners
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a>
