@@ -5,7 +5,7 @@ legg inn bilde ved link: ![alt tag](x)
 
 ### Step 1 - Carbon Rods
 Legg inn bilde av sammenlimte stenger
-![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carbon%20rod.jpg)
+![alt tag](https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carbon%20rod.jpg {width=40px height=400px})
 
 ### Step 2 - Carriage
 Legg inn bilde av ferdigmontert carriage
