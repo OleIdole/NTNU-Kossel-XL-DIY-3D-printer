@@ -59,24 +59,23 @@ Since we operate with 230V we have to flip the switch from 115V to 230V on the s
 **This part is for the profiles on the bottom section, not the top part of the printer**<br>
 Insert T-nuts into the 20x20 profiles according to the list below:<br>
 <br>
-F: Front <br>
-L: Left from front<br>
-R: Right from front <br>
+**Front:**<br>
+Lower outside: 2<br>
+Upper outside: 2<br>
+Lower inside : 1<br>
+Upper inside : 1<br>
 <br>
-F-lower outside: 2<br>
-F-upper outside: 2<br>
-F-lower inside : 1<br>
-F-upper inside : 1<br>
+**Left side:**<br>
+Lower outside: 2<br>
+Upper outside: 2<br>
+Lower inside : 4<br>
+Upper inside : 0<br>
 <br>
-L-lower outside: 2<br>
-L-upper outside: 2<br>
-L-lower inside : 4<br>
-L-upper inside : 0<br>
-<br>
-R-lower outside: 1<br>
-R-upper outside: 2 <br>
-R-lower inside : 2<br>
-R-upper inside : 2 <br>
+**Right side:**<br>
+Lower outside: 1<br>
+Upper outside: 2 <br>
+Lower inside : 2<br>
+Upper inside : 2 <br>
 <br>
 
 #### Dette skal lenger ned i guiden, beholder her midlertidig.
