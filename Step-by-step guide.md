@@ -54,26 +54,34 @@ Since we operate with 230V we have to flip the switch from 115V to 230V on the s
 
 ## Assembly
 
-### Step 1 - Insert T-nuts
+### Step 1 - Insert T-nuts into the short 20x20 profiles
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/T-nut.jpg" align="center" height="403" width="302"></a> <br>
-Insert T-nuts according to the list below:
+**This part is for the profiles on the bottom section, not the top part of the printer**<br>
+Insert T-nuts into the 20x20 profiles according to the list below:<br>
+<br>
 F: Front <br>
 L: Left from front<br>
 R: Right from front <br>
-Number of nuts i the 20x20 profiles. <br>
+<br>
 F-lower outside: 2<br>
 F-upper outside: 2<br>
 F-lower inside : 1<br>
 F-upper inside : 1<br>
+<br>
 L-lower outside: 2<br>
 L-upper outside: 2<br>
 L-lower inside : 4<br>
 L-upper inside : 0<br>
+<br>
 R-lower outside: 1<br>
 R-upper outside: 2 <br>
 R-lower inside : 2<br>
 R-upper inside : 2 <br>
-Inside of all towers :lowest 1 x m4, in the midle 7 x m3 and on topp 1 x m4 <br>
+<br>
+
+#### Dette skal lenger ned i guiden, beholder her midlertidig.
+Inside of all towers (the long 20x20 profiles):<br>
+lowest 1 x m4, in the midle 7 x m3 and on topp 1 x m4 <br>
 Depends on the carry profile that is used. We used one with 24xm3 holes. <br>
 And we used m4 for the end brackets. (lower and upper) 
 Right outside tower : 6 <br>
