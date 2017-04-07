@@ -4,10 +4,10 @@
 ## Preparation of parts
 
 ### Step 1 - Carbon Rods
-
+Legg inn bilde av sammenlimte stenger
 
 ### Step 2 - Carriage
-
+Legg inn bilde av ferdigmontert carriage
 
 ### Step 3
 
@@ -40,7 +40,7 @@
 ### Step 5 - Connect bottom and top together
 
 
-### Step 6 - Attach linear rails
+### Step 6 - Attach linear rails and end stops
 
 
 ### Step 7
