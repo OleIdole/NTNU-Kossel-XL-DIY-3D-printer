@@ -32,9 +32,9 @@ jumper1 | jumper2 | jumper 3 | step size
  no  |  yes |   yes |   1/64 step
  yes |  yes |   yes |   1/128 step
  
- If the jumpers are set to a higher number of micro steps than supported by the driver, it will operate at the maximum possible number of micro steps for that driver. Because of this, **we will set jumpers on all 3 settings** which means 1/128 is the maximum step size.<br>
- Since we use the pololu  A4988 stepper motor drivers, this results in 1/16 micro stepping.<br>
- We will use the same settings for all steppers (X,Y,Z,E0,E1).<br>
+If the jumpers are set to a higher number of micro steps than supported by the driver, it will operate at the maximum possible number of micro steps for that driver. Because of this, **we will set jumpers on all 3 settings** which means 1/128 is the maximum step size.<br>
+Since we use the pololu  A4988 stepper motor drivers, this results in 1/16 micro stepping.<br>
+**We will use the same settings for all steppers (X,Y,Z,E0,E1).**<br>
 
 
 
