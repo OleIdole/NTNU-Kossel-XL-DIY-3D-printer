@@ -17,8 +17,9 @@ Assemble the carriage similar to the picture. These will later be used to keep t
 
 
 ### Step 3 - Ramps 1.4 jumper settings
-There are 3 jumper settings under the stepper
-Jumpers need to be installed under each stepper driver:
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Ramps%20stepper%20jumper%20settings.jpg" align="center" height="403" width="302" ></a> <br>
+There are 3 jumper settings for each stepper.
+The jumpers settings for each step size is listed below:
 
 jumper1 | jumper2 | jumper 3 | step size
 ------------ | ------------- | ------------- | -------------
@@ -31,13 +32,17 @@ jumper1 | jumper2 | jumper 3 | step size
  no  |  yes |   yes |   1/64 step
  yes |  yes |   yes |   1/128 step
  
- If the jumpers are set to a higher number of micro steps than supported by the 
- driver it will operate at the maximum number of micro steps for that driver. 
- Since we use the pololu A4988 stepper motor drivers, that results in 1/16 micro stepping.
+ If the jumpers are set to a higher number of micro steps than supported by the driver, it will operate at the maximum possible number of micro steps for that driver. Because of this, **we will set jumpers on all 3 settings** which means 1/128 is the maximum step size.<br>
+ Since we use the pololu  A4988 stepper motor drivers, this results in 1/16 micro stepping.<br>
+ We will use the same settings for all steppers (X,Y,Z,E0,E1).<br>
+
 
 
 ### Step 4 - Power supply voltage
-
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20voltage%20switch%201.jpg" align="center" height="403" width="302" ></a>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20voltage%20switch%202.jpg" align="center" height="403" width="302" ></a> <br>
+It is important to change the voltage setting of the power supply before it is used.<br>
+Since we operate with 230V we have to flip the switch from 115V to 230V on the side of the power supply.<br>
 
 ### Step 5
 
