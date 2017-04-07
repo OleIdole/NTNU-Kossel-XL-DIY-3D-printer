@@ -1,6 +1,6 @@
 legg inn bilde ved link: ![alt tag](x)
 
-<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Stepper%20motor.jpg" align="center" height="400" width="800" ></a>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Stepper%20motor.jpg" align="center" height="400" width="400" ></a>
 
 ## Preparation of parts
 
