@@ -4,7 +4,7 @@ eller for å kunne skalere: <a href="url"><img src="link" align="center" height=
 ## Preparation of parts
 
 ### Step 1 - Carbon Rods
-<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carbon%20rod.jpg" align="center" height="400" width="400" ></a>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carbon%20rod.jpg" align="center" height="403" width="302" ></a>
 
 ### Step 2 - Carriage
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carriage.jpg" align="center" height="400" width="400" ></a>
