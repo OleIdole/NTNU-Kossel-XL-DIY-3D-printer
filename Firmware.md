@@ -13,16 +13,21 @@ Downloade Pronterface form: <br>
 http://kliment.kapsi.fi/printrun/
 
 
-StartUp<br> 
+## StartUp<br> 
 
 1. Check endstopps. Type M119 in proterface <br> 
 >>> M119 <br>
 SENDING:M119 <br>
-Reporting endstop status
-x_max: open
-y_max: open
-z_min: TRIGGERED
-z_max: open
-z_probe: open 
+Reporting endstop status <br>
+x_max: open <br>
+y_max: open <br>
+z_min: TRIGGERED <br>
+z_max: open <br>
+z_probe: open <br>
+
+Trigger the endstops one by one and run M119 to confirm that they are working. <br> 
+
+2. Measure the distance 
+
 
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Kossel_Calibration.png" align="center" height="515" width="662" ></a> <br>
