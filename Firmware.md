@@ -16,7 +16,7 @@ http://kliment.kapsi.fi/printrun/
 ## StartUp<br> 
 
 1. Check endstopps. Type M119 in proterface <br> 
->>> M119 <br>
+M119 <br>
 SENDING:M119 <br>
 Reporting endstop status <br>
 x_max: open <br>
