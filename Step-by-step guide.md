@@ -62,20 +62,20 @@ Insert T-nuts into the 20x20 profiles according to the list below:<br>
 **Front:**<br>
 Lower outside: 2<br>
 Upper outside: 2<br>
-Lower inside : 3<br>
-Upper inside : 3<br>
+Lower inside : 5<br>
+Upper inside : 5<br>
 <br>
 **Left side:**<br>
 Lower outside: 2<br>
 Upper outside: 2<br>
-Lower inside : 6<br>
-Upper inside : 2<br>
+Lower inside : 8<br>
+Upper inside : 4<br>
 <br>
 **Right side:**<br>
 Lower outside: 1<br>
 Upper outside: 2<br>
-Lower inside : 4<br>
-Upper inside : 4<br>
+Lower inside : 6<br>
+Upper inside : 6<br>
 <br>
 
 #### Dette skal lenger ned i guiden, beholder her midlertidig.
@@ -89,13 +89,26 @@ front outside tower : 6 <br>
 
 Mount 6 on each lower cornerpart and 3 on the upper corners. <br>
 
-### Step 2 - Assemble bottom corners
-<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
 
-### Step 3 - Attach stepper motors
+### Step 2 - Attach stepper motors
+<a href="url"><img src="link" align="center" height="400" width="400" ></a> <br>
+First attach the tooth pulley to the stepper motor as this will not be possible after motor is assembled to the corner.<br>
+Position the tooth pulley similar to the picture above, make sure there is a slight space between the motor and the tooth pulley to prevent friction.<br>
+Tighten the 2 screws on the tooth pulley with 1 of them facing the flat part of the rod.<br>
+<br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Stepper%20motor.jpg" align="center" height="403" width="302" ></a> <br>
+Now place the stepper motor inside the corner and tighten all 4 screws. This can be tricky due to minimal workspace, using pliers might help.<br>
+
+
+### Step 3 - Assemble bottom corners
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
+Assemble the corners together with the small 20x20 profiles similar to the picture above.<br>
+
 
 ### Step 4 - Assemble top corners
+<a href="url"><img src="link" align="center" height="400" width="400" ></a> <br>
+Insert 4 T-nuts on the inside of each small 20x20 profile.<br>
+Assemble the corners together with the small 20x20 profiles similar to the picture above.<br>
 
 
 ### Step 5 - Connect bottom and top together
@@ -103,6 +116,7 @@ Mount 6 on each lower cornerpart and 3 on the upper corners. <br>
 
 ### Step 6 - Attach linear rails and end stops
 **Make sure the carriage does not slide off the linear rail, there are loose parts inside!**<br>
+
 
 ### Step 7
 
