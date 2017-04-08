@@ -16,3 +16,5 @@ http://kliment.kapsi.fi/printrun/
 StartUp<br> 
 
 Check endstopps. Type M119 in proterface
+
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Kossel_Calibration.png" align="center" height="51" width="66" ></a> <br>
