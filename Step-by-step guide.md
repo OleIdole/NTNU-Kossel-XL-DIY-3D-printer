@@ -61,6 +61,9 @@ Position the tooth pulley similar to the picture above, make sure there is a sli
 Tighten the 2 screws on the tooth pulley with 1 of them facing the flat part of the rod.<br>
 
 
+### Step 7 - Insert nuts into the 3D-printed T-nuts
+
+
 ## Assembly
 
 ### Step 1 - Insert T-nuts into the short 20x20 profiles
@@ -120,7 +123,8 @@ Assemble the corners together with the small 20x20 profiles similar to the pictu
 ### Step 5 - Attach linear rails and end stops
 **Make sure the carriage does not slide off the linear rail, there are loose parts inside!**<br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Linear%20rail.jpg" align="center" height="403" width="302" ></a> <br>
-Assemble the linear rail to the long 20x20 profile using T-nuts. Do not tighten this yet, they will be adjusted later.<br>
+Assemble the linear rail to the long 20x20 profile using the 3D-printed T-nuts.<br>
+Do not tighten this yet, they will be adjusted later.<br>
 There is no need to use a screw for every hole of the rail. Using every 2nd or 3rd will suffice.<br>
 Now do the same for the end stops, facing the same direction as in the picture above. Slightly tighten these to prevent the carriage from sliding off the rail.<br>
 
