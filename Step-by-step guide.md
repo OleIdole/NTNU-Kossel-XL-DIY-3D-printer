@@ -57,7 +57,7 @@ It is recommended to use pliers to keep the nut in place as instructed in the pi
 ### Step 6 - Attach tooth pulley to stepper motors
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Tooth%20pulley%20stepper%20motors.jpg" align="center" height="403" width="302" ></a> <br>
 Attach the tooth pulley to the stepper motor as this will not be possible after motor is assembled to the corner.<br>
-Position the tooth pulley similar to the picture above, make sure there is a slight space between the motor and the tooth pulley to prevent friction.<br>
+Position the tooth pulley similar to the picture above, make sure there is a slight gap between the motor and the tooth pulley to prevent friction.<br>
 Tighten the 2 screws on the tooth pulley with 1 of them facing the flat part of the rod.<br>
 
 
