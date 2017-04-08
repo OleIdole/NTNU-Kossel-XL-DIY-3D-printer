@@ -6,7 +6,8 @@ ny linje: <br>
 
 ### Step 1 - Tie rod carbon tubes
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carbon%20rod.jpg" align="center" height="403" width="302" ></a> <br>
-Put glue on the tie rod end and insert it into the tie rod carbon tube. Loctite Power Epoxy Universal works well for this, but other types can also work.<br>
+Apply glue to the tie rod end and insert it into the tie rod carbon tube. **Avoid applying glue to the bearing.**<br>
+Loctite Power Epoxy Universal works well for this, but other types can also work.<br>
 **Make sure that the tie rod ends does not slide out while the glue dries.**<br>
 **Make sure that the tie rod ends on both sides are equally rotated.**<br>
 
