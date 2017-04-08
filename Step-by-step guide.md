@@ -102,8 +102,8 @@ Mount 6 on each lower cornerpart and 3 on the upper corners. <br>
 
 ### Step 2 - Attach stepper motors
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Stepper%20motor.jpg" align="center" height="403" width="302" ></a> <br>
-Place the stepper motor inside the corner and tighten all 4 screws. This can be tricky due to minimal workspace, using pliers might help.<br>
-Make sure the wires face down. Also its worth noting that cutting an umbraco for this part will make life much easier, shown below.<br>
+Place the stepper motor inside the corner and tighten all 4 screws. This can be tricky due to minimal workspace, using pliers might help. Make sure the wires face down.<br>
+Also its worth noting that cutting an umbraco for this part will make life much easier, shown below.<br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Cut%20umbraco%20for%20M3%20screws.jpg" align="center" height="403" width="302" ></a> <br>
 
 
@@ -129,7 +129,7 @@ Now do the same for the end stops, facing the same direction as in the picture a
 ### Step 6 - Connect bottom and top frame together
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
 First insert the T-nut and screw to the corners, then slide the long 20x20 profiles into the bottom frame.<br>
-Tighten the bottom frame, then do the same for the top frame. Make sure the top frame is flush with the end of the profiles as in the picture below.
+Tighten the bottom frame, then do the same for the top frame. Make sure the top frame is flush with the end of the profiles as in the picture below.<br>
 <a href="url"><img src="link" align="center" height="302" width="403" ></a> <br>
 
 
