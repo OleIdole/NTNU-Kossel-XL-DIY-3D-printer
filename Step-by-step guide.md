@@ -46,8 +46,8 @@ It is important to change the voltage setting of the power supply before it is u
 Since we operate with 230V we have to flip the switch from 115V to 230V on the side of the power supply.<br>
 
 ### Step 5 - Top corner bearings
-<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Bearings%20top%20set.jpg" align="center" height="302" width="403" ></a><a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Bearings%20assembly%20order.jpg" align="center" height="403" width="302" ></a> <br>
-The pictures above show an overview of how the assembly order will be. The screw will first go through the hole of the corner, so dont place assemble it just yet.<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Bearings%20top%20set.jpg" align="center" height="302" width="403" > </a><a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Bearings%20assembly%20order.jpg" align="center" height="403" width="302" ></a> <br>
+The pictures above show an overview of how the assembly order will be. The screw will first go through the hole of the corner, so dont assemble it just yet.<br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Bearings%20top%20corner.jpg" align="center" height="403" width="302" ></a> <br>
 Assemble the corners similar to the picture above. The order for the screw is: through first hole > washer > both bearings > washer > nut.<br>
 It is recommended to use pliers to keep the nut in place as instructed in the picture below.
