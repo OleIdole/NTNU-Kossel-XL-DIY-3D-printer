@@ -59,3 +59,15 @@ Mount 6 on each lower cornerpart and 3 on the upper corners. <br>
 
 
 http://out.umelecforum.ru/317t-datasheet.html
+
+
+Fan Voltage regulator. <br> 
+Componets: <br>
+1x LM317 Positive Voltage Regulator <br> 
+1x 0.1uF Condensator <br>
+1x 1.0uF Condensator <br>
+1x 10Kohm Potentiometer <br>
+1x 240ohm Resistor <br> 
+
+Drawings and spec: <br> 
+https://www.onsemi.com/pub/Collateral/LM317-D.PDF
