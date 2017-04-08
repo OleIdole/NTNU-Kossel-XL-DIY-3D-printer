@@ -38,7 +38,6 @@ Since we use the pololu  A4988 stepper motor drivers, this results in 1/16 micro
 **We will use the same settings for all steppers (X,Y,Z,E0,E1).**<br>
 
 
-
 ### Step 4 - Power supply voltage
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20voltage%20switch%201.jpg" align="center" height="403" width="302" ></a>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20voltage%20switch%202.jpg" align="center" height="403" width="302" ></a> <br>
@@ -128,13 +127,17 @@ Now do the same for the end stops, facing the same direction as in the picture a
 
 ### Step 6 - Connect bottom and top frame together
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Complete%20frame.jpg" align="center" height="403" width="302" ></a> <br>
 First insert the T-nut and screw to the corners, then slide the long 20x20 profiles into the bottom frame.<br>
 Tighten the bottom frame, then do the same for the top frame. Make sure the top frame is flush with the end of the profiles as in the picture below.<br>
-<a href="url"><img src="link" align="center" height="302" width="403" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20top.jpg" align="center" height="403" width="302" ></a> <br>
 
 
 ### Step 7 - Adjust the linear rails
-
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Rails%20top.jpg" align="center" height="403" width="302" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Rail%20bottom.jpg" align="center" height="403" width="302" ></a> <br>
+Now that the frame top is in place, adjust the end stops and linear rails according to the pictures above.<br>
+Press them up against the top frame and tighten.<br>
 
 ### Step 8
 
