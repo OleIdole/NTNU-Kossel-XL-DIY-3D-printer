@@ -15,6 +15,9 @@ Loctite Power Epoxy Universal works well for this, but other types can also work
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carriage.jpg" align="center" height="403" width="302" ></a> <br>
 **Make sure the carriage does not slide off the linear rail, there are loose parts inside!**<br>
 Assemble the carriage similar to the picture. These will later be used to keep the belt tightened and also move the delta arms.<br>
+The 2 screws at the top are 20mm M3 that need to be cut down a few mm. The screw at the bottom is a 10mm M3 screw.<br>
+The screw used to keep together the 3D-printed parts is 20mm M3 with a M3 nut.<br>
+All the screws that attach to the carriage should be inserted once before assembly to break the grooves in the PLA. This will allow the parts to be assembled tighter.<br>
 
 
 ### Step 3 - Ramps 1.4 jumper settings
