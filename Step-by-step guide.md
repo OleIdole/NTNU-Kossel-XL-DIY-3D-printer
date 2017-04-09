@@ -12,7 +12,7 @@ Loctite Power Epoxy Universal works well for this, but other types can also work
 **Make sure that the tie rod ends on both sides are equally rotated.**<br>
 
 ### Step 2 - Carriage
-<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carriage.jpg" align="center" height="403" width="302" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Carriage%20on%20rail.jpg" align="center" height="403" width="302" ></a> <br>
 **Make sure the carriage does not slide off the linear rail, there are loose parts inside!**<br>
 Assemble the carriage similar to the picture. These will later be used to keep the belt tightened and also move the delta arms.<br>
 The 2 screws at the top are 20mm M3 that need to be cut down a few mm. The screw at the bottom is a 10mm M3 screw.<br>
@@ -65,6 +65,13 @@ Tighten the 2 screws on the tooth pulley with 1 of them facing the flat part of 
 
 
 ### Step 7 - Insert nuts into the 3D-printed T-nuts
+
+
+### Step 8 - Assemble hotbed mount
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Hotbed%20mount%20assembly.jpg" align="center" height="302" width="403" ></a> <br>
+Cut the 5mm diameter spring into a length of approximately 5 full revolutions.<br>
+Place M3 nuts inside the regulator as in the picture above.<br>
+Insert 20mm M3 screws and position it similar to the picture, these will be adjusted when calibrating.<br
 
 
 ## Assembly
@@ -146,7 +153,11 @@ Tighten the bottom frame, then do the same for the top frame. Make sure the top 
 Now that the frame top is in place, adjust the end stops and linear rails according to the pictures above.<br>
 Press them up against the top frame and tighten.<br>
 
-### Step 8
+
+### Step 8 - Attach hotbed mount
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Hotbed%20mount%20attach.jpg" align="center" height="302" width="403" ></a> <br>
+Insert 2 T-nuts on top of each 20x20 profile and attach to the hotbed mount with the 12mm M4 screws.<br>
+Do not tighten these yet, they will be positioned when the hotbed is inserted later.<br>
 
 
 ### Step 9
