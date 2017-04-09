@@ -49,11 +49,11 @@ For our printer we have this masurements.
 
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Kossel_Calibration.png" align="center" height="515" width="662" ></a> <br>
 
-Filament rounout sensor: <br> 
+## Filament rounout sensor: <br> 
 http://3dmodularsystems.com/en/upgrades/275-runout-sensor-module-for-reprap-3d-printers.html
 
 
-## Configuration.h
+1. Configuration.h
 //===========================================================================
 //========================= Filament Runout Sensor ==========================
 //===========================================================================
@@ -67,11 +67,11 @@ http://3dmodularsystems.com/en/upgrades/275-runout-sensor-module-for-reprap-3d-p
 #define FILAMENT_RUNOUT_SCRIPT "M600"<br>
 #endif<br>
 
-## Configuration_adv.h 
+2. Configuration_adv.h 
 Make shure that  #define FILAMENT_CHANGE_FEATURE is uncommented. <br> 
 Mashure the distanse between your hotend and the extruder and fill inn. 
 
-## pins_RAMPS.h 
+3. pins_RAMPS.h 
 Connect the switch to a free digital innput and ground. 
 
 #define FIL_RUNOUT_PIN      3 // D3
