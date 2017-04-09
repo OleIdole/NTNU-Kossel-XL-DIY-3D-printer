@@ -49,4 +49,5 @@ For our printer we have this masurements.
 
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Kossel_Calibration.png" align="center" height="515" width="662" ></a> <br>
 
-
+Filament rounout sensor: <br> 
+http://3dmodularsystems.com/en/upgrades/275-runout-sensor-module-for-reprap-3d-printers.html
