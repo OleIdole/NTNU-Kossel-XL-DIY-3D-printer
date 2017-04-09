@@ -28,17 +28,25 @@ z_probe: open <br>
 Trigger the endstops one by one and run M119 to confirm that they are working. <br> 
 
 2. Measure the offsets. 
-// Center-to-center distance of the holes in the diagonal push rods.
-DELTA_DIAGONAL_ROD 315.3 // mm
+// Center-to-center distance of the holes in the diagonal push rods. <br>
+DELTA_DIAGONAL_ROD
 
-// Horizontal offset from middle of printer to smooth rod center.
-DELTA_SMOOTH_ROD_OFFSET 231.0 // mm
+// Horizontal offset from middle of printer to smooth rod center. <br>
+DELTA_SMOOTH_ROD_OFFSET
 
-// Horizontal offset of the universal joints on the end effector.
-#define DELTA_EFFECTOR_OFFSET 25.0 // mm
+// Horizontal offset of the universal joints on the end effector. <br>
+DELTA_EFFECTOR_OFFSET
 
-// Horizontal offset of the universal joints on the carriages.
-#define DELTA_CARRIAGE_OFFSET 30.0 // mm
+// Horizontal offset of the universal joints on the carriages. <br>
+DELTA_CARRIAGE_OFFSET
 
+// Print surface diameter/2 minus unreachable space (avoid collisions with vertical towers). <br>
+DELTA_PRINTABLE_RADIUS
+
+Fill in you measurements in the Configuration.h 
+
+For our printer we have this masurements. 
 
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Kossel_Calibration.png" align="center" height="515" width="662" ></a> <br>
+
+
