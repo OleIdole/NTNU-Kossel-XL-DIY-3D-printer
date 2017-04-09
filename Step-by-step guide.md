@@ -18,6 +18,8 @@ Assemble the carriage similar to the picture. These will later be used to keep t
 The 2 screws at the top are 20mm M3 that need to be cut down a few mm. The screw at the bottom is a 10mm M3 screw.<br>
 The screw used to keep together the 3D-printed parts is 20mm M3 with a M3 nut.<br>
 All the screws that attach to the carriage should be inserted once before assembly to break the grooves in the PLA. This will allow the parts to be assembled tighter.<br>
+Cut down 2x 20mm M3 screws about 4mm down. Now insert 2x M3 nuts into their slots in the 3D-printed part.<br>
+Insert the screws from the side of the carriage until they attach to the nuts. These will be used for the carbon rods later.<br>
 
 
 ### Step 3 - Ramps 1.4 jumper settings
@@ -71,7 +73,7 @@ Tighten the 2 screws on the tooth pulley with 1 of them facing the flat part of 
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Hotbed%20mount%20assembly.jpg" align="center" height="302" width="403" ></a> <br>
 Cut the 5mm diameter spring into a length of approximately 5 full revolutions.<br>
 Place M3 nuts inside the regulator as in the picture above.<br>
-Insert 20mm M3 screws and position it similar to the picture, these will be adjusted when calibrating.<br
+Insert 20mm M3 screws and position it similar to the picture, these will be adjusted when calibrating.<br>
 
 
 ## Assembly
@@ -82,20 +84,14 @@ Insert 20mm M3 screws and position it similar to the picture, these will be adju
 Insert T-nuts into the 20x20 profiles according to the list below:<br>
 <br>
 **Front:**<br>
-Lower outside: 2<br>
-Upper outside: 2<br>
 Lower inside : 5<br>
 Upper inside : 5<br>
 <br>
 **Left side:**<br>
-Lower outside: 2<br>
-Upper outside: 2<br>
 Lower inside : 8<br>
 Upper inside : 4<br>
 <br>
 **Right side:**<br>
-Lower outside: 1<br>
-Upper outside: 2<br>
 Lower inside : 6<br>
 Upper inside : 6<br>
 <br>
@@ -142,8 +138,10 @@ Now do the same for the end stops, facing the same direction as in the picture a
 ### Step 6 - Connect bottom and top frame together
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Complete%20frame.jpg" align="center" height="403" width="302" ></a> <br>
-First insert the T-nut and screw to the corners, then slide the long 20x20 profiles into the bottom frame.<br>
-Tighten the bottom frame, then do the same for the top frame. Make sure the top frame is flush with the end of the profiles as in the picture below.<br>
+First insert the T-nut and screw to the corners, use washers on the outside of the corners.<br>
+Then slide the long 20x20 profiles into the bottom frame.<br>
+Tighten the bottom frame, then insert 6 T-nuts on the outside of each long 20x20 profile, these are used for the plexi cover later.<br>
+Now connert the top frame similar to the bottom frame. Make sure the top frame is flush with the end of the profiles as in the picture below.<br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20top.jpg" align="center" height="403" width="302" ></a> <br>
 
 
@@ -160,7 +158,9 @@ Insert 2 T-nuts on top of each 20x20 profile and attach to the hotbed mount with
 Do not tighten these yet, they will be positioned when the hotbed is inserted later.<br>
 
 
-### Step 9
+### Step 9 - Attach belt to carriage
+<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+
 
 
 ### Step 10
