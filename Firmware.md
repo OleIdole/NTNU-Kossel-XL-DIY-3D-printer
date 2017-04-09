@@ -51,3 +51,19 @@ For our printer we have this masurements.
 
 Filament rounout sensor: <br> 
 http://3dmodularsystems.com/en/upgrades/275-runout-sensor-module-for-reprap-3d-printers.html
+
+
+//===========================================================================
+//========================= Filament Runout Sensor ==========================
+//===========================================================================
+#define FILAMENT_RUNOUT_SENSOR // Uncomment for defining a filament runout sensor such as a mechanical or opto endstop to check the existence of filament
+// RAMPS-based boards use SERVO3_PIN. For other boards you may need to define FIL_RUNOUT_PIN.
+// It is assumed that when logic high = filament available
+//                    when logic  low = filament ran out
+#if ENABLED(FILAMENT_RUNOUT_SENSOR)
+#define FIL_RUNOUT_INVERTING true // set to true to invert the logic of the sensor.
+// #define ENDSTOPPULLUP_FIL_RUNOUT // Uncomment to use internal pullup for filament runout pins if the sensor is defined.
+#define FILAMENT_RUNOUT_SCRIPT "M600"
+#endif
+
+
