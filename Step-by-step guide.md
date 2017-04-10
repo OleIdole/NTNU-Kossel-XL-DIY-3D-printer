@@ -76,6 +76,11 @@ Place M3 nuts inside the regulator as in the picture above.<br>
 Insert 20mm M3 screws and position it similar to the picture, these will be adjusted when calibrating.<br>
 
 
+### Step 9 - Assemble fan holder
+<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+
+
+
 ## Assembly
 
 ### Step 1 - Insert T-nuts into the short 20x20 profiles
@@ -100,12 +105,7 @@ Upper inside : 6<br>
 Inside of all towers (the long 20x20 profiles):<br>
 lowest 1 x m4, in the midle 7 x m3 and on topp 1 x m4 <br>
 Depends on the carry profile that is used. We used one with 24xm3 holes. <br>
-And we used m4 for the end brackets. (lower and upper) 
-Right outside tower : 6 <br>
-left outside tower : 6 <br>
-front outside tower : 6 <br>
-
-Mount 6 on each lower cornerpart and 3 on the upper corners. <br>
+And we used m4 for the end brackets. (lower and upper) <br>
 
 
 ### Step 2 - Attach stepper motors
@@ -159,14 +159,44 @@ Do not tighten these yet, they will be positioned when the hotbed is inserted la
 
 
 ### Step 9 - Attach belt to carriage
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Belt%20assembly%201.jpg" align="center" height="403" width="302" ></a> <br>
+Detach the loose 3D-printed part of the carriage to be able to fit the belt.<br>
+Insert the belt end as in the picture above. Then thread it through with the bearing on top of the printer.<br>
+Now thread it down through with the tooth pulley on the bottom of the printer.<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Belt%20assembly%202.jpg" align="center" height="403" width="302" ></a> <br>
+Place the belt inside the loose 3D-printed part positioned in a way that you barely reach the nut on the loose part with the screw.<br>
+This way you will have the possibility to tighten even more later on if the belt gets some slack.<br>
+Tighten the belt until you can barely pinch the belt together, cut the end when satisfied.<br>
+
+
+### Step 10 - Apply vibration dampers
+<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+Apply 2 vibration dampers on each corner as in the picture. These are essential for reducing the noise.<br>
+
+
+### Step 11 - Attach power supply
+<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+Attach the power supply similar to the picture above. The back end of the power supply should face the front.<br>
+Use washers between the plastic and screws and tighten them to the T-nuts in the frame.<br>
+
+
+### Step 12 - Attach relay
+<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+Connect the wires before attaching the relay. These wires are 1.5mm2 although they can be of a lower dimension.<br>
+There is nothing wrong with using different colors for the wires, but it is recommended to keep it organized.<br>
+**Do not reduce cable dimension unless educated to work with electricity.**<br>
+Now attach the relay to the power supply bracket similar to the picture above.<br>
+
+### Step 13 - Attach ramps 1.4 box
+<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+Insert the Ramps 1.4 into the box, then fasten the box onto the two nuts on the 20x20 profile.<br>
+
+
+### Step 14 - Attach the fan holder
 <a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
 
 
-
-### Step 10
-
-
-### Step 11
+### Step 15
 
 
-### Step 12
+### Step 16
