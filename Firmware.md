@@ -76,4 +76,6 @@ Connect the switch to a free digital innput and ground.
 
 #define FIL_RUNOUT_PIN      3 // D3
 
-
+4. Max length for extruding
+Change the lengt of Extrud max lengt to the langth of your bowden + 100. 
+#define EXTRUDE_MAXLENGTH 950 // mm 
