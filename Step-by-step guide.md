@@ -1,5 +1,4 @@
-legg inn bilde ved link: ![alt tag](x) <br>
-eller for å kunne skalere: <a href="url"><img src="link" align="center" height="400" width="400" ></a> <br>
+Legg inn bilde med skalering: <a href="url"><img src="link" align="center" height="400" width="400" ></a> <br>
 ny linje: <br>
 
 ## Preparation of parts
@@ -41,13 +40,26 @@ jumper1 | jumper2 | jumper 3 | step size
 If the jumpers are set to a higher number of micro steps than supported by the driver, it will operate at the maximum possible number of micro steps for that driver. Because of this, **we will set jumpers on all 3 settings** which means 1/128 is the maximum step size.<br>
 Since we use the pololu  A4988 stepper motor drivers, this results in 1/16 micro stepping.<br>
 **We will use the same settings for all steppers (X,Y,Z,E0,E1).**<br>
+<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Stepper%20drivers.jpg" align="center" height="302" width="403" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Drivers%20on%20ramps.jpg" align="center" height="403" width="302" ></a> <br>
+Now find the stepper drivers, place the heat sink on top of these.<br>
+**Make sure the heat sink doesnt touch any electrical circuits!**<br>
+Insert the drivers on top of the ramps 1.4 as in the picture above.<br>
+Underneath the driver you will see where each pin belongs. This makes it simple to see which way it should be placed onto the ramps card.<br>
+<br>
+Now place the ramps 1.4 on top of the arduino card. Make sure none of the pins are bent, then press push it together.<br>
 
 
-### Step 4 - Power supply voltage
+### Step 4 - Power supply
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20voltage%20switch%201.jpg" align="center" height="403" width="302" ></a>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20voltage%20switch%202.jpg" align="center" height="403" width="302" ></a> <br>
 It is important to change the voltage setting of the power supply before it is used.<br>
 Since we operate with 230V we have to flip the switch from 115V to 230V on the side of the power supply.<br>
+<br>
+Attach the 3D-printed brackets onto the power supply. Do not attach the relay yet.<br>
+When finished, it should look like the images below.<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20brackets%201.jpg" align="center" height="302" width="403" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20brackets%202.jpg" align="center" height="403" width="302" ></a> <br>
+
 
 ### Step 5 - Top corner bearings
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Bearings%20top%20set.jpg" align="center" height="302" width="403" > </a><a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Bearings%20assembly%20order.jpg" align="center" height="403" width="302" ></a> <br>
@@ -77,8 +89,25 @@ Insert 20mm M3 screws and position it similar to the picture, these will be adju
 
 
 ### Step 9 - Assemble fan holder
-<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
-
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Solder%20power%20switch%201.jpg" align="center" height="403" width="302" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/External%20power%20cable.jpg" align="center" height="302" width="403" ></a> <br>
+First you need to do some soldering. Cut the external power cable close to the end where the plug is.<br>
+You want to access the wires as the plug will not be used. Strip open about 6cm of the isolation, which should be enough for soldering, if not, take some more.<br>
+Insert the external power cable through its appropriate hole, then out where the switch belongs. This way you can drag it back when you are finished soldering.<br>
+**Use heatshrink tubes on all soldering points to ensure optimal insulation.**<br>
+Insert heatshrink tubes onto the cables.<br>
+Solder the brown wire onto one of the pins of the on/off power switch.<br>
+Cut about 30cm of 1.5mm2 black wire and solder onto the other pin of the switch.<br>
+Cut about 30cm of 1.5mm2 red wire and solder onto the blue wire from the external power cable.<br>
+Cut about 30cm of 1.5mm2 yellow/green wire and solder onto the yellow/green wire from the external power cable.<br>
+Apply heat to the heatshrink tubes until appropriately shrinked. Now place the switch into its slot.<br>
+Apply a cable tie to the external power cable at the inside of the fan holder to prevent it from being pulled out.<br>
+Now it should look like the pictures below.<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Solder%20power%20switch%202.jpg" align="center" height="403" width="302" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/fanholder%202.jpg" align="center" height="403" width="302" ></a> <br>
+<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Fans%20for%20fan%20holder.jpg" align="center" height="302" width="403" ></a> <br>
+Insert 2 fans as in the picture above, pull the wires out of its slot, so they hang loose on the inside.<br>
+You only need to use 2 screws for each of them. When finished, it should look like the picture below.<br>
+<a href="url"><img src="link" align="center" height="302" width="403" ></a> <br>
 
 
 ## Assembly
@@ -170,30 +199,35 @@ Tighten the belt until you can barely pinch the belt together, cut the end when 
 
 
 ### Step 10 - Apply vibration dampers
-<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
-Apply 2 vibration dampers on each corner as in the picture. These are essential for reducing the noise.<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Vibration%20dampers.jpg" align="center" height="403" width="302" ></a> <br>
+Apply 2 vibration dampers to each corner as in the picture. These are essential for reducing the noise.<br>
 
 
 ### Step 11 - Attach power supply
-<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
-Attach the power supply similar to the picture above. The back end of the power supply should face the front.<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20into%20frame.jpg" align="center" height="403" width="302" ></a> <br>
+Attach the power supply similar to the picture above. The back end of the power supply should face the front of the printer.<br>
 Use washers between the plastic and screws and tighten them to the T-nuts in the frame.<br>
 
 
 ### Step 12 - Attach relay
-<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Relay%20connection%201.jpg" align="center" height="403" width="302" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Relay%20connection%202.jpg" align="center" height="403" width="302" ></a> <br>
 Connect the wires before attaching the relay. These wires are 1.5mm2 although they can be of a lower dimension.<br>
+The length of the wires should be about 40cm.<br>
 There is nothing wrong with using different colors for the wires, but it is recommended to keep it organized.<br>
 **Do not reduce cable dimension unless educated to work with electricity.**<br>
 Now attach the relay to the power supply bracket similar to the picture above.<br>
 
+
 ### Step 13 - Attach ramps 1.4 box
 <a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
-Insert the Ramps 1.4 into the box, then fasten the box onto the two nuts on the 20x20 profile.<br>
+Insert the Ramps 1.4 into the box, then attach the box onto the two nuts on the right side 20x20 profile.<br>
 
 
 ### Step 14 - Attach the fan holder
-<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Fan%20holder%20attached.jpg" align="center" height="302" width="403" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Fan%20holder%20fan%20cable%20location.jpg" align="center" height="403" width="302" ></a> <br>
+Pull the cables through the frame, the power wires should go straight in, while the fan wires should go through next to the open part of the ramps box.<br>
+Attach the fan holder on the outside in front of the ramps box using T-nuts.<br>
+Make sure the fans are positions as in the picture to ensure proper cooling on the stepper drivers.<br>
 
 
 ### Step 15
