@@ -110,6 +110,15 @@ You only need to use 2 screws for each of them. When finished, it should look li
 <a href="url"><img src="link" align="center" height="302" width="403" ></a> <br>
 
 
+### Step 10 - Solder end stops
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Solder%20end%20stops.jpg" align="center" height="403" width="302" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Twisted%20wires.jpg" align="center" height="403" width="302" ></a> <br>
+Cut 0.5mm2 wires of about 1.5m length. Wires can probably be of much shorter length, this is just to avoid them being too short.<br>
+If you dont have 0.5mm2 wires, use bigger ones.<br>
+Attach the wires to a drill, and the other end to a vice or something similar to hold it.<br>
+Now drill it until the wires are twisted together similar to the picture above.<br>
+Apply heat shrink tubes and solder the wires onto the end stops.<br>
+
+
 ## Assembly
 
 ### Step 1 - Insert T-nuts into the short 20x20 profiles
@@ -155,7 +164,13 @@ Insert 4 T-nuts on the inside of each small 20x20 profile.<br>
 Assemble the corners together with the small 20x20 profiles similar to the picture above.<br>
 
 
-### Step 5 - Attach linear rails and end stops
+### Step 5 - Attach end stops
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Attach%20end%20stops.jpg" align="center" height="403" width="302" ></a> <br>
+Attach the end stops on the top bracket just above the linear rails similar to the picture above.<br>
+The Switch must face down, it will detect when the carriage reach the end.<br>
+
+
+### Step 6 - Attach linear rails and end stops
 **Make sure the carriage does not slide off the linear rail, there are loose parts inside!**<br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Linear%20rail.jpg" align="center" height="403" width="302" ></a> <br>
 Assemble the linear rail to the long 20x20 profile using the 3D-printed T-nuts.<br>
@@ -164,7 +179,7 @@ There is no need to use a screw for every hole of the rail. Using every 2nd or 3
 Now do the same for the end stops, facing the same direction as in the picture above. Slightly tighten these to prevent the carriage from sliding off the rail.<br>
 
 
-### Step 6 - Connect bottom and top frame together
+### Step 7 - Connect bottom and top frame together
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Complete%20frame.jpg" align="center" height="403" width="302" ></a> <br>
 First insert the T-nut and screw to the corners, use washers on the outside of the corners.<br>
@@ -174,20 +189,20 @@ Now connert the top frame similar to the bottom frame. Make sure the top frame i
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20top.jpg" align="center" height="403" width="302" ></a> <br>
 
 
-### Step 7 - Adjust the linear rails
+### Step 8 - Adjust the linear rails
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Rails%20top.jpg" align="center" height="403" width="302" ></a> <br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Rail%20bottom.jpg" align="center" height="403" width="302" ></a> <br>
 Now that the frame top is in place, adjust the end stops and linear rails according to the pictures above.<br>
 Press them up against the top frame and tighten.<br>
 
 
-### Step 8 - Attach hotbed mount
+### Step 9 - Attach hotbed mount
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Hotbed%20mount%20attach.jpg" align="center" height="302" width="403" ></a> <br>
 Insert 2 T-nuts on top of each 20x20 profile and attach to the hotbed mount with the 12mm M4 screws.<br>
 Do not tighten these yet, they will be positioned when the hotbed is inserted later.<br>
 
 
-### Step 9 - Attach belt to carriage
+### Step 10 - Attach belt to carriage
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Belt%20assembly%201.jpg" align="center" height="403" width="302" ></a> <br>
 Detach the loose 3D-printed part of the carriage to be able to fit the belt.<br>
 Insert the belt end as in the picture above. Then thread it through with the bearing on top of the printer.<br>
@@ -198,39 +213,42 @@ This way you will have the possibility to tighten even more later on if the belt
 Tighten the belt until you can barely pinch the belt together, cut the end when satisfied.<br>
 
 
-### Step 10 - Apply vibration dampers
+### Step 11 - Apply vibration dampers
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Vibration%20dampers.jpg" align="center" height="403" width="302" ></a> <br>
 Apply 2 vibration dampers to each corner as in the picture. These are essential for reducing the noise.<br>
 
 
-### Step 11 - Attach power supply
+### Step 12 - Attach power supply
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Power%20supply%20into%20frame.jpg" align="center" height="403" width="302" ></a> <br>
 Attach the power supply similar to the picture above. The back end of the power supply should face the front of the printer.<br>
 Use washers between the plastic and screws and tighten them to the T-nuts in the frame.<br>
 
 
-### Step 12 - Attach relay
+### Step 13 - Attach relay
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Relay%20connection%201.jpg" align="center" height="403" width="302" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Relay%20connection%202.jpg" align="center" height="403" width="302" ></a> <br>
-Connect the wires before attaching the relay. These wires are 1.5mm2 although they can be of a lower dimension.<br>
-The length of the wires should be about 40cm.<br>
+Before attaching the relay, connect the wires. Connect a black wire of 1.5mm2 with length 40cm to number 1(output).<br>
+Connect another black wire of same length and dimension to number 4(- input).<br>
+Connect a red wire of same length and dimension to number 3(+ input).<br>
+Strip down the insulation of the orange heatbed cable about 23cm from the circle.<br>
+Connect the black wire from that cable to number 2(output).
+<br>
 There is nothing wrong with using different colors for the wires, but it is recommended to keep it organized.<br>
-**Do not reduce cable dimension unless educated to work with electricity.**<br>
 Now attach the relay to the power supply bracket similar to the picture above.<br>
 
 
-### Step 13 - Attach ramps 1.4 box
+### Step 14 - Attach ramps 1.4 box
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Ramps%20box%20position.jpg" align="center" height="403" width="302" ></a> <br>
 Insert the Ramps 1.4 into the box, then attach the box onto the two nuts on the right side 20x20 profile.<br>
 
 
-### Step 14 - Attach the fan holder
+### Step 15 - Attach the fan holder
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Fan%20holder%20attached.jpg" align="center" height="302" width="403" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Fan%20holder%20fan%20cable%20location.jpg" align="center" height="403" width="302" ></a> <br>
 Pull the cables through the frame, the power wires should go straight in, while the fan wires should go through next to the open part of the ramps box.<br>
 Attach the fan holder on the outside in front of the ramps box using T-nuts.<br>
 Make sure the fans are positions as in the picture to ensure proper cooling on the stepper drivers.<br>
 
 
-### Step 15
-
-
 ### Step 16
+
+
+### Step 17
