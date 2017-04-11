@@ -226,7 +226,8 @@ Use washers between the plastic and screws and tighten them to the T-nuts in the
 
 ### Step 13 - Attach relay
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Relay%20connection%201.jpg" align="center" height="403" width="302" ></a>  <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Relay%20connection%202.jpg" align="center" height="403" width="302" ></a> <br>
-Before attaching the relay, connect the wires. Connect a black wire of 1.5mm2 with length 40cm to number 1(output).<br>
+Before attaching the relay, connect the wires. It is recommended to use ferrules for all wires.<br>
+Connect a black wire of 1.5mm2 with length 40cm to number 1(output).<br>
 Connect another black wire of same length and dimension to number 4(- input).<br>
 Connect a red wire of same length and dimension to number 3(+ input).<br>
 Strip down the insulation of the orange heatbed cable about 23cm from the circle.<br>
@@ -248,7 +249,7 @@ Attach the fan holder on the outside in front of the ramps box using T-nuts.<br>
 Make sure the fans are positions as in the picture to ensure proper cooling on the stepper drivers.<br>
 
 
-### Step 16
+### Step 16 
 
 
 ### Step 17
