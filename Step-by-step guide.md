@@ -219,7 +219,7 @@ Now attach the relay to the power supply bracket similar to the picture above.<b
 
 
 ### Step 13 - Attach ramps 1.4 box
-<a href="url"><img src="link" align="center" height="403" width="302" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Ramps%20box%20position.jpg" align="center" height="403" width="302" ></a> <br>
 Insert the Ramps 1.4 into the box, then attach the box onto the two nuts on the right side 20x20 profile.<br>
 
 
