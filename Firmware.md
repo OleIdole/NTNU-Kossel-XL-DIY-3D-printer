@@ -14,8 +14,9 @@ http://kliment.kapsi.fi/printrun/
 
 
 ## StartUp<br> 
+1. Eprom 
 
-1. Check endstopps. Type M119 in proterface <br> 
+2. Check endstopps. Type M119 in proterface <br> 
 M119 <br>
 SENDING:M119 <br>
 Reporting endstop status <br>
@@ -27,7 +28,7 @@ z_probe: open <br>
 
 Trigger the endstops one by one and run M119 to confirm that they are working. <br> 
 
-2. Measure the offsets. 
+3. Measure the offsets. 
 // Center-to-center distance of the holes in the diagonal push rods. <br>
 DELTA_DIAGONAL_ROD
 
@@ -54,9 +55,7 @@ http://3dmodularsystems.com/en/upgrades/275-runout-sensor-module-for-reprap-3d-p
 
 
 1. Configuration.h
-//===========================================================================
-//========================= Filament Runout Sensor ==========================
-//===========================================================================
+Uncomment 
 #define FILAMENT_RUNOUT_SENSOR // Uncomment for defining a filament runout sensor such as a mechanical or opto endstop to check the <br> existence of filament<br>
 // RAMPS-based boards use SERVO3_PIN. For other boards you may need to define FIL_RUNOUT_PIN.<br>
 // It is assumed that when logic high = filament available<br>
@@ -73,7 +72,8 @@ Mashure the distanse between your hotend and the extruder and fill inn.
 
 3. pins_RAMPS.h 
 Connect the switch to a free digital innput and ground. 
-
+RAMPS-based boards use SERVO3_PIN (D4). For other boards you may need to define FIL_RUNOUT_PIN.<br>
+We used D3 
 #define FIL_RUNOUT_PIN      3 // D3
 
 4. Max length for extruding
