@@ -120,7 +120,7 @@ Apply heat shrink tubes and solder the wires onto the end stops.<br>
 
 
 ### Step 11 - Assemble hotend
-The hotend should be assembled according to E3D's official tutorial, (click here for the tutorial.)[https://wiki.e3d-online.com/wiki/E3D-v6_Assembly]<br>
+The hotend should be assembled according to E3D's official tutorial, [click here for the tutorial.](https://wiki.e3d-online.com/wiki/E3D-v6_Assembly)<br>
 
 
 ## Assembly
