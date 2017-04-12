@@ -56,15 +56,17 @@ http://3dmodularsystems.com/en/upgrades/275-runout-sensor-module-for-reprap-3d-p
 
 1. Configuration.h
 Uncomment 
-#define FILAMENT_RUNOUT_SENSOR // Uncomment for defining a filament runout sensor such as a mechanical or opto endstop to check the <br> existence of filament<br>
-// RAMPS-based boards use SERVO3_PIN. For other boards you may need to define FIL_RUNOUT_PIN.<br>
-// It is assumed that when logic high = filament available<br>
-//                    when logic  low = filament ran out<br>
-#if ENABLED(FILAMENT_RUNOUT_SENSOR)<br>
-#define FIL_RUNOUT_INVERTING true // set to true to invert the logic of the sensor.<br>
-// #define ENDSTOPPULLUP_FIL_RUNOUT // Uncomment to use internal pullup for filament runout pins if the sensor is defined.<br>
-#define FILAMENT_RUNOUT_SCRIPT "M600"<br>
-#endif<br>
+```
+#define FILAMENT_RUNOUT_SENSOR // Uncomment for defining a filament runout sensor such as a mechanical or opto endstop to check the existence of filament
+// RAMPS-based boards use SERVO3_PIN. For other boards you may need to define FIL_RUNOUT_PIN.
+// It is assumed that when logic high = filament available
+//                    when logic  low = filament ran out
+#if ENABLED(FILAMENT_RUNOUT_SENSOR)
+#define FIL_RUNOUT_INVERTING true // set to true to invert the logic of the sensor.
+// #define ENDSTOPPULLUP_FIL_RUNOUT // Uncomment to use internal pullup for filament runout pins if the sensor is defined.
+#define FILAMENT_RUNOUT_SCRIPT "M600"
+#endif
+```
 
 2. Configuration_adv.h 
 Make shure that  #define FILAMENT_CHANGE_FEATURE is uncommented. <br> 
@@ -79,3 +81,29 @@ We used D3
 4. Max length for extruding
 Change the lengt of Extrud max lengt to the langth of your bowden + 100. 
 #define EXTRUDE_MAXLENGTH 950 // mm 
+
+## Change Filament when printer is cold 
+1. ultralcd.cpp
+add this code lines on line 765, or about there: <br> 
+  #endif<br>
+    #if ENABLED(FILAMENT_CHANGE_FEATURE)<br>
+    void lcd_enqueue_filament_change_pla() { 
+        enqueue_and_echo_commands_P(PSTR("M109 S210"));
+        enqueue_and_echo_commands_P(PSTR("M600"));
+        lcd_filament_change_show_message(FILAMENT_CHANGE_MESSAGE_INIT);      
+    }    
+  #endif
+    #if ENABLED(FILAMENT_CHANGE_FEATURE)
+    void lcd_enqueue_filament_change_abs() { 
+        enqueue_and_echo_commands_P(PSTR("M109 S240"));
+        enqueue_and_echo_commands_P(PSTR("M600"));
+        lcd_filament_change_show_message(FILAMENT_CHANGE_MESSAGE_INIT);      
+    }    
+  #endif
+  
+ 
+3.  language_en.h 
+#ifndef MSG_FILAMENT_CHANGE_INIT_1
+    #define MSG_FILAMENT_CHANGE_INIT_1          "Wait for start of"
+    #define MSG_FILAMENT_CHANGE_INIT_2          "the filament change"
+    #define MSG_FILAMENT_CHANGE_INIT_3          "Heating up"
