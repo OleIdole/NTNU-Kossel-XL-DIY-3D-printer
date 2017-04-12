@@ -84,9 +84,13 @@ Change the lengt of Extrud max lengt to the langth of your bowden + 100.
 
 ## Change Filament when printer is cold 
 1. ultralcd.cpp
-add this code lines on line 765, or about there: <br> 
-  #endif<br>
-    #if ENABLED(FILAMENT_CHANGE_FEATURE)<br>
+add this code lines underneath <br>
+void lcd_enqueue_filament_change()<br>
+roughly in line 765 <br> 
+
+```
+  #endif
+    #if ENABLED(FILAMENT_CHANGE_FEATURE)
     void lcd_enqueue_filament_change_pla() { 
         enqueue_and_echo_commands_P(PSTR("M109 S210"));
         enqueue_and_echo_commands_P(PSTR("M600"));
@@ -100,10 +104,32 @@ add this code lines on line 765, or about there: <br>
         lcd_filament_change_show_message(FILAMENT_CHANGE_MESSAGE_INIT);      
     }    
   #endif
-  
- 
+ ```
+2. ultralcd.cpp
+Add this code lines in the prepare menu. <br>
+It has to be in the: <br>
+void lcd_prepare_menu(){<br>
+... <br>
+} <br>
+roughly in line 1270 <br> 
+   ```
+    // 
+    // Change Filament.  
+    //
+    #if ENABLED(FILAMENT_CHANGE_FEATURE)
+        MENU_ITEM(function, MSG_FILAMENTCHANGE_PLA, lcd_enqueue_filament_change_pla);
+    #endif
+    
+    #if ENABLED(FILAMENT_CHANGE_FEATURE)
+        MENU_ITEM(function, MSG_FILAMENTCHANGE_ABS, lcd_enqueue_filament_change_abs);
+    #endif
+   ```
+    
 3.  language_en.h 
+change the massage for fillament change to<br>
+```
 #ifndef MSG_FILAMENT_CHANGE_INIT_1
     #define MSG_FILAMENT_CHANGE_INIT_1          "Wait for start of"
     #define MSG_FILAMENT_CHANGE_INIT_2          "the filament change"
     #define MSG_FILAMENT_CHANGE_INIT_3          "Heating up"
+```
