@@ -119,6 +119,10 @@ Now drill it until the wires are twisted together similar to the picture above.<
 Apply heat shrink tubes and solder the wires onto the end stops.<br>
 
 
+### Step 11 - Assemble hotend
+The hotend should be assembled according to E3D's official tutorial, (click here for the tutorial.)[https://wiki.e3d-online.com/wiki/E3D-v6_Assembly]<br>
+
+
 ## Assembly
 
 ### Step 1 - Insert T-nuts into the short 20x20 profiles
