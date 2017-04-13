@@ -5,7 +5,10 @@ Legg inn bilde med skalering: <a href="url"><img src="link" align="center" heigh
 ## Part list
  Part | Quantity 
 ----- | -----
-M3 Nuts | 5 |
+M3x20mm screw | x |
+M3x12mm Screw | x |
+M3x8mm Screw | x | 
+M3 Nut | 
 
 ## Preparation of parts
 
