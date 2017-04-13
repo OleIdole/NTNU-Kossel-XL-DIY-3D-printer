@@ -137,15 +137,15 @@ The hotend should be assembled according to E3D's official tutorial, [click here
 Insert T-nuts into the 20x20 profiles according to the list below:<br>
 <br>
 **Front:**<br>
+Lower inside : 6<br>
+Upper inside : 6<br>
+<br>
+**Left side:**<br>
 Lower inside : 5<br>
 Upper inside : 5<br>
 <br>
-**Left side:**<br>
-Lower inside : 8<br>
-Upper inside : 4<br>
-<br>
 **Right side:**<br>
-Lower inside : 6<br>
+Lower inside : 4<br>
 Upper inside : 6<br>
 <br>
 
