@@ -260,7 +260,38 @@ Attach the fan holder on the outside in front of the ramps box using T-nuts.<br>
 Make sure the fans are positions as in the picture to ensure proper cooling on the stepper drivers.<br>
 
 
-### Step 16 
+### Step 16 - Attach the filament holder
+Fest på høyre side lengst bak
+skru på sylinder
+skru mutter på sylinder
 
 
-### Step 17
+### Step 17 - Attach the extruder
+sett extruder bracket på høyre side lengst fremme
+fest tannhjul på motor i riktig posisjon i forhold til filament
+fest motor på bracket med 2 innerste skruene
+fest ene siden av den løse 3D-printet delen på motor
+sett inn kulelager og fest med skrue
+kutt fjær
+sett på justerings hjul på skruen
+sett på skruen med fjær mellom løs og fast 3D-printet del
+
+
+### Step 18 - Attach the LCD display
+plugg ledning inn i ramps
+så plugg ledning inn i LCD
+så sett LCD inn i LCD boks
+så sett boksen på fremside 20x20 profil bunn ramme
+
+
+### Step 19 - Attach the hotend
+først sette på 3D-printet hotend
+så sett på viftene
+så sett på stenger
+så fest stenger på vognene
+så sett på filament slange og ledninger til viftene
+så sett på beskyttelses slange rundt ledningene og filament slangen
+
+
+### Step 20 - Wiring
+(Sett inn bilde av koblingsskjema her)
