@@ -1,5 +1,6 @@
 Legg inn bilde med skalering: <a href="url"><img src="link" align="center" height="400" width="400" ></a> <br>
-ny linje: <br>
+
+# Step-by-step guide to building your own 3D-printer
 
 ## Preparation of parts
 
