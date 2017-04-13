@@ -2,6 +2,10 @@ Legg inn bilde med skalering: <a href="url"><img src="link" align="center" heigh
 
 # Step-by-step guide to building your own 3D-printer
 
+## Part list
+ Part | Quantity 
+----- | --------
+
 ## Preparation of parts
 
 ### Step 1 - Tie rod carbon tubes
