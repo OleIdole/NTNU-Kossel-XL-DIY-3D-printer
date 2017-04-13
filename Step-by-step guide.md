@@ -79,13 +79,19 @@ Tighten the 2 screws on the tooth pulley with 1 of them facing the flat part of 
 
 
 ### Step 7 - Insert nuts into the 3D-printed T-nuts
-
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Printed%20%20Tnuts.jpg" align="center" height="403" width="302" ></a> <br>
+Insert M3 nuts into the 3D-printed T-nuts like in the picture above.<br>
+Apply light pressure with a hammer until the nuts are flush with the T-nut.<br>
 
 ### Step 8 - Assemble hotbed mount
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Hotbed%20mount%20assembly.jpg" align="center" height="302" width="403" ></a> <br>
 Cut the 5mm diameter spring into a length of approximately 5 full revolutions.<br>
 Place M3 nuts inside the regulator as in the picture above.<br>
 Insert 20mm M3 screws and position it similar to the picture, these will be adjusted when calibrating.<br>
+<br>
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Cork%20hotbed%20frame.jpg" align="center" height="302" width="403" ></a> <br>
+Apply cork to the hotbed mount. One layer to the adjustable part, one to the static part and one to each side.<br>
+When finished it should look like the picture above.<br>
 
 
 ### Step 9 - Assemble fan holder
@@ -168,13 +174,7 @@ Insert 4 T-nuts on the inside of each small 20x20 profile.<br>
 Assemble the corners together with the small 20x20 profiles similar to the picture above.<br>
 
 
-### Step 5 - Attach end stops
-<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Attach%20end%20stops.jpg" align="center" height="403" width="302" ></a> <br>
-Attach the end stops on the top bracket just above the linear rails similar to the picture above.<br>
-The Switch must face down, it will detect when the carriage reach the end.<br>
-
-
-### Step 6 - Attach linear rails and end stops
+### Step 5 - Attach linear rails and end stop brackets
 **Make sure the carriage does not slide off the linear rail, there are loose parts inside!**<br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Linear%20rail.jpg" align="center" height="403" width="302" ></a> <br>
 Assemble the linear rail to the long 20x20 profile using the 3D-printed T-nuts.<br>
@@ -183,7 +183,7 @@ There is no need to use a screw for every hole of the rail. Using every 2nd or 3
 Now do the same for the end stops, facing the same direction as in the picture above. Slightly tighten these to prevent the carriage from sliding off the rail.<br>
 
 
-### Step 7 - Connect bottom and top frame together
+### Step 6 - Connect bottom and top frame together
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20bottom.jpg" align="center" height="302" width="403" ></a> <br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Complete%20frame.jpg" align="center" height="403" width="302" ></a> <br>
 First insert the T-nut and screw to the corners, use washers on the outside of the corners.<br>
@@ -193,11 +193,17 @@ Now connert the top frame similar to the bottom frame. Make sure the top frame i
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Frame%20top.jpg" align="center" height="403" width="302" ></a> <br>
 
 
-### Step 8 - Adjust the linear rails
+### Step 7 - Adjust the linear rails
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Rails%20top.jpg" align="center" height="403" width="302" ></a> <br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Rail%20bottom.jpg" align="center" height="403" width="302" ></a> <br>
 Now that the frame top is in place, adjust the end stops and linear rails according to the pictures above.<br>
 Press them up against the top frame and tighten.<br>
+
+
+### Step 8 - Attach end stops
+<a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Attach%20end%20stops.jpg" align="center" height="403" width="302" ></a> <br>
+Attach the end stops on the top bracket just above the linear rails similar to the picture above.<br>
+The Switch must face down, it will detect when the carriage reach the end.<br>
 
 
 ### Step 9 - Attach hotbed mount
