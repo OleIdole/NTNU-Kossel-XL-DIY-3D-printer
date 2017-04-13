@@ -4,7 +4,8 @@ Legg inn bilde med skalering: <a href="url"><img src="link" align="center" heigh
 
 ## Part list
  Part | Quantity 
------ | --------
+----- | -----
+M3 Nuts | 5 |
 
 ## Preparation of parts
 
