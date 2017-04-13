@@ -5,10 +5,15 @@ Legg inn bilde med skalering: <a href="url"><img src="link" align="center" heigh
 ## Part list
  Part | Quantity 
 ----- | -----
-M3x20mm screw | x |
-M3x12mm Screw | x |
-M3x8mm Screw | x | 
-M3 Nut | 
+M4x12mm screw | x 
+M3x20mm screw | x 
+M3x12mm screw | x 
+M3x8mm screw | x 
+M3 nut | x 
+T-nut | x 
+Compression spring 5mm | x
+Cork 3mm | x 
+Cork 1.5mm | x 
 
 ## Preparation of parts
 
