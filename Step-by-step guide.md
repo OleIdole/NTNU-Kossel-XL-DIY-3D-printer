@@ -286,10 +286,10 @@ Attach extruder bracket on the left side bottom frame as close to the back as po
 Attach the gear onto the motor with the set screw facing motor.<br>
 Position the gear such that the filament going through is centered in the gear teeth.<br>
 Attach the motor onto the bracket with the plug pointing up and away from the printer.<br>
-It should look like in the picture below.
+It should look like in the picture below.<br>
 <a href="url"><img src="nettsidelenke her" align="center" height="302" width="403" ></a>
 
-Attach the 
+Attach the ...
 
 fest ene siden av den løse 3D-printet delen på motor
 sett inn kulelager og fest med skrue
