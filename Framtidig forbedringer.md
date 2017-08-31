@@ -17,3 +17,7 @@ http://www.instructables.com/id/How-To-Control-a-3D-Printer-with-a-Phone-via-DIY
 * Nylon lineære rails istedenfor kulelager.<br>
 
 * Høyere bunn-ramme for å unngå at powersupply blir for varm fra heatbed.<br>
+
+* stillegående stepper drivere, f eks silent stepper sticks.<br>
+
+* 32-bit mikrokontroller for bedre oppløsning og mulighet for større hastigheter.<br>
