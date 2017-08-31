@@ -127,8 +127,7 @@ Now it should look like the pictures below.<br>
 <br>
 <a href="url"><img src="https://github.com/OleIdole/Kossel-XL-DIY-3D-printer/blob/master/Pictures/Fans%20for%20fan%20holder.jpg" align="center" height="302" width="403" ></a> <br>
 Insert 2 fans as in the picture above, pull the wires out of its slot, so they hang loose on the inside.<br>
-You only need to use 2 screws for each of them. When finished, it should look like the picture below.<br>
-<a href="url"><img src="link" align="center" height="302" width="403" ></a> <br>
+You only need to use 2 screws for each of them.
 
 
 ### Step 10 - Solder end stops
@@ -275,15 +274,23 @@ Make sure the fans are positions as in the picture to ensure proper cooling on t
 
 
 ### Step 16 - Attach the filament holder
-Fest på høyre side lengst bak
-skru på sylinder
-skru mutter på sylinder
+Attach filament holder on the left side bottom frame as close to the front as possible.<br>
+Attach the cylinder to the filament holder with the longest threads towards the filament holder.<br>
+To add filament, place the filament spool on the cylinder, then secure it with the nut.<br>
+Once finished it should look similar to the picture below.<br>
+<a href="url"><img src="nettsidelenke her" align="center" height="302" width="403" ></a>
 
 
 ### Step 17 - Attach the extruder
-sett extruder bracket på høyre side lengst fremme
-fest tannhjul på motor i riktig posisjon i forhold til filament
-fest motor på bracket med 2 innerste skruene
+Attach extruder bracket on the left side bottom frame as close to the back as possible.<br>
+Attach the gear onto the motor with the set screw facing motor.<br>
+Position the gear such that the filament going through is centered in the gear teeth.<br>
+Attach the motor onto the bracket with the plug pointing up and away from the printer.<br>
+It should look like in the picture below.
+<a href="url"><img src="nettsidelenke her" align="center" height="302" width="403" ></a>
+
+Attach the 
+
 fest ene siden av den løse 3D-printet delen på motor
 sett inn kulelager og fest med skrue
 kutt fjær
