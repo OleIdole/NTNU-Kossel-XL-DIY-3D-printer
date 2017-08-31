@@ -89,7 +89,6 @@ void lcd_enqueue_filament_change()<br>
 roughly in line 765 <br> 
 
 ```
-  #endif
     #if ENABLED(FILAMENT_CHANGE_FEATURE)
     void lcd_enqueue_filament_change_pla() { 
         enqueue_and_echo_commands_P(PSTR("M109 S210"));
@@ -133,3 +132,38 @@ change the massage for fillament change to<br>
     #define MSG_FILAMENT_CHANGE_INIT_2          "the filament change"
     #define MSG_FILAMENT_CHANGE_INIT_3          "Heating up"
 ```
+
+<br>
+It is inportant to spesify the length of your bowden pipe before using the change filament command. <br>
+This is done in Configuration_avd.h <br>
+Search for FILAMENT_CHANGE_FEATURE and fill out all the information you need. <br>
+'''
+// Add support for experimental filament exchange support M600; requires display
+#if ENABLED(ULTIPANEL)
+  #define FILAMENT_CHANGE_FEATURE             // Enable filament exchange menu and M600 g-code (used for runout sensor too)
+  #if ENABLED(FILAMENT_CHANGE_FEATURE)
+    #define FILAMENT_CHANGE_X_POS 3             // X position of hotend
+    #define FILAMENT_CHANGE_Y_POS 3             // Y position of hotend
+    #define FILAMENT_CHANGE_Z_ADD 10            // Z addition of hotend (lift)
+    #define FILAMENT_CHANGE_XY_FEEDRATE 100     // X and Y axes feedrate in mm/s (also used for delta printers Z axis)
+    #define FILAMENT_CHANGE_Z_FEEDRATE 5        // Z axis feedrate in mm/s (not used for delta printers)
+    #define FILAMENT_CHANGE_RETRACT_LENGTH 20    // Initial retract in mm
+                                                // It is a short retract used immediately after print interrupt before move to filament exchange position
+    #define FILAMENT_CHANGE_RETRACT_FEEDRATE 60 // Initial retract feedrate in mm/s
+    #define FILAMENT_CHANGE_UNLOAD_LENGTH 950   // Unload filament length from hotend in mm
+                                                // Longer length for bowden printers to unload filament from whole bowden tube,
+                                                // shorter lenght for printers without bowden to unload filament from extruder only,
+                                                // 0 to disable unloading for manual unloading
+    #define FILAMENT_CHANGE_UNLOAD_FEEDRATE 60  // Unload filament feedrate in mm/s - filament unloading can be fast
+    #define FILAMENT_CHANGE_LOAD_LENGTH 700     // Load filament length over hotend in mm
+                                                // Longer length for bowden printers to fast load filament into whole bowden tube over the hotend,
+                                                // Short or zero length for printers without bowden where loading is not used
+    #define FILAMENT_CHANGE_LOAD_FEEDRATE 60    // Load filament feedrate in mm/s - filament loading into the bowden tube can be fast
+    #define FILAMENT_CHANGE_EXTRUDE_LENGTH 30   // Extrude filament length in mm after filament is load over the hotend,
+                                                // 0 to disable for manual extrusion
+                                                // Filament can be extruded repeatedly from the filament exchange menu to fill the hotend,
+                                                // or until outcoming filament color is not clear for filament color change
+    #define FILAMENT_CHANGE_EXTRUDE_FEEDRATE 8  // Extrude filament feedrate in mm/s - must be slower than load feedrate
+  #endif
+#endif
+'''
