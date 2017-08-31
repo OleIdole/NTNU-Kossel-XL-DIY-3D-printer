@@ -12,7 +12,7 @@ Enter the settings as shown in the picture below.
 <a href="url"><img src="link" align="center" height="512" width="634" ></a> <br>
 
 Start Gcode:
-'''
+```
 G28
 G1 X110 Y45 F3000
 G92 E0
@@ -20,10 +20,10 @@ G1 Z30
 G1 E10 F225
 G1 X80 Y60 F3000
 G92 E0
-'''
+```
 
 End Gcode:
-'''
+```
 M104 S0 ;extruder heater off
 M140 S0 ;heated bed heater off (if you have it)
 G91 ;relative positioning
@@ -31,4 +31,4 @@ G1 E-1 F300  ;retract the filament a bit before lifting the nozzle, to release s
 G28 ;Home all axes (max endstops)
 M84 ;steppers off
 G90 ;absolute positioning
-'''
+```
