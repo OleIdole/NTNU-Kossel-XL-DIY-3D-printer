@@ -289,7 +289,7 @@ Attach the motor onto the bracket with the plug pointing up and away from the pr
 It should look like in the picture below.<br>
 <a href="url"><img src="nettsidelenke her" align="center" height="302" width="403" ></a>
 
-Attach the ...
+Attach the loose ...
 
 fest ene siden av den løse 3D-printet delen på motor
 sett inn kulelager og fest med skrue
