@@ -72,3 +72,6 @@ Brim Width - tweak this for own prefferences. Larger brim means stronger adhesio
 ## Pronterface (Manual printer controller)
 
 Download the newest version of Pronterface at their official website, [click here.](http://www.pronterface.com/)<br>
+
+### Connecting to printer
+Open Pronterface, then change Port and Baud rate up in the left corner, set Baud rate to 250 000.<br>
