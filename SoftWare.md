@@ -5,7 +5,9 @@
 
 Download the newest version of Cura at Ultimaker's official website, [click here.](https://ultimaker.com/en/products/cura-software)<br>
 
-First you must add the printer as it is not part of the default printers in Cura. Go to settings > printer > add printer.<br>
+### Printer settings
+First you must add the printer as it is not part of the default printers in Cura.<br>
+Go to settings > printer > add printer.<br>
 Select custom > custom FDM printer, then you need to enter all the settings for the printer.<br>
 
 Enter the settings as shown in the picture below.
@@ -32,3 +34,41 @@ G28 ;Home all axes (max endstops)
 M84 ;steppers off
 G90 ;absolute positioning
 ```
+
+
+### Printer profile
+The default printer profiles are already quite good, but can be tweaked for better results.<br>
+These settings are available on the right half side of Cura, the optimal settings are affected by filament supplier and the printer.<br>
+Here are the most important settings that we personally preffer to tweak:<br>
+**Note: this is the settings used for PLA**
+```
+Infill:
+Infill Density - this is often edited depending on what you are making. Default should be set around 20%.
+
+Material:
+Printing Temperature - different for each filament, test them to find optimal temperature. Around 210*C is common to use.
+Build Plate Temperature - around 60*C is normal. You might want to raise it to 70*C if print is not sticking to the build plate.
+Diameter - important to keep this at the same as your filament, 1.75mm is standard for this printer.
+Flow - this must be tweaked in order to find optimal values. Start out at 100% and try different values. We ended up at 90% flow.
+Enable Retraction - this should be enabled to eliminate stringing.
+
+Speed:
+Print Speed - this can be tweaked for optimal results, we recommend around 60mm/s.
+Travel Speed - this can be tweaked for optimal results, we recommend around 120mm/s.
+
+Cooling:
+Enable Print Cooling - this should be enabled for optimal results.
+
+Support:
+Enable support - Toggle this for own needs.
+
+Build Plate Adhesion:
+Build Plate Adhesion Type - Brim
+Brim Width - tweak this for own prefferences. Larger brim means stronger adhesion to build plate.
+```
+
+
+
+## Pronterface (Manual printer controller)
+
+Download the newest version of Pronterface at their official website, [click here.](http://www.pronterface.com/)<br>
