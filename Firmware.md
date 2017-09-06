@@ -110,7 +110,7 @@ It has to be in the: <br>
 void lcd_prepare_menu(){<br>
 ... <br>
 } <br>
-roughly in line 1270 <br> 
+roughly in line 1290 <br> 
    ```
     // 
     // Change Filament.  
