@@ -12,7 +12,7 @@ Select custom > custom FDM printer > Give it at decent name like NTNU Kossel > c
 
 
 Enter the settings as shown in the picture below.
-<a href="url"><img src="https://github.com/OleIdole/NTNU-Kossel-XL-DIY-3D-printer/blob/master/Pictures/Cura%20printer%20settings.png" align="center" height="512" width="634" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/NTNU-Kossel-XL-DIY-3D-printer/blob/master/Pictures/NTNUKosselSetup.PNG" align="center" height="512" width="634" ></a> <br>
 
 You need to select "Marlin" as the GCode flavor and filament diameter to 1.75mm.<br>
 
