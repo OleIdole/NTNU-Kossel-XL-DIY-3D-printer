@@ -70,7 +70,7 @@ Build Plate Adhesion Type - Brim
 Brim Width - tweak this for own prefferences. Larger brim means stronger adhesion to build plate.
 ```
 
-We recommand this profile settings: <br>
+## We recommand this profile settings: <br>
 <a href="url"><img src="https://github.com/OleIdole/NTNU-Kossel-XL-DIY-3D-printer/blob/master/Pictures/RecomandedPMachinesettings.PNG" height="741" width="405" ></a> <br>
 
 
