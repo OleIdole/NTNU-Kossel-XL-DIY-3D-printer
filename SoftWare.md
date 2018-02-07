@@ -8,7 +8,8 @@ Download the newest version of Cura at Ultimaker's official website, [click here
 ### Printer settings
 First you must add the printer as it is not part of the default printers in Cura.<br>
 Go to settings > printer > add printer.<br>
-Select custom > custom FDM printer, then you need to enter all the settings for the printer.<br>
+Select custom > custom FDM printer > Give it at decent name like NTNU Kossel > click add printer down to the right.<br>
+
 
 Enter the settings as shown in the picture below.
 <a href="url"><img src="https://github.com/OleIdole/NTNU-Kossel-XL-DIY-3D-printer/blob/master/Pictures/Cura%20printer%20settings.png" align="center" height="512" width="634" ></a> <br>
