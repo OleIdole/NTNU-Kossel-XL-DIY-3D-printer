@@ -71,7 +71,7 @@ Brim Width - tweak this for own prefferences. Larger brim means stronger adhesio
 ```
 
 ## We recommand this profile settings: <br>
-<a href="url"><img src="https://github.com/OleIdole/NTNU-Kossel-XL-DIY-3D-printer/blob/master/Pictures/RecomandedPMachinesettings.PNG" height="741" width="405" ></a> <br>
+<a href="url"><img src="https://github.com/OleIdole/NTNU-Kossel-XL-DIY-3D-printer/blob/master/Pictures/RecomandedPMachinesettings.PNG" height="610" width="410" ></a> <br>
 
 
 ## Pronterface (Manual printer controller)
